@@ -7,8 +7,8 @@
     "publishedAt": "2026-09-16T09:22:16Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "260710",
-    "likeCount": "2856",
+    "viewCount": "261011",
+    "likeCount": "2859",
     "durationSec": 530,
     "tags": [
       "ANALYSIS"
@@ -23,7 +23,7 @@
     "publishedAt": "2026-09-10T10:47:09Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "107620",
+    "viewCount": "107641",
     "likeCount": "1506",
     "durationSec": 132,
     "tags": [
@@ -39,8 +39,8 @@
     "publishedAt": "2026-09-09T15:00:05Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "370109",
-    "likeCount": "11478",
+    "viewCount": "370434",
+    "likeCount": "11480",
     "durationSec": 156,
     "tags": [
       "NEWS"
@@ -55,7 +55,7 @@
     "publishedAt": "2026-09-08T18:30:15Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "415370",
+    "viewCount": "415470",
     "likeCount": "4046",
     "durationSec": 1167,
     "tags": [
@@ -71,7 +71,7 @@
     "publishedAt": "2026-09-08T16:20:09Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1693452",
+    "viewCount": "1693518",
     "likeCount": "20593",
     "durationSec": 155,
     "tags": [
@@ -87,8 +87,8 @@
     "publishedAt": "2026-09-06T21:20:39Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "122793",
-    "likeCount": "2536",
+    "viewCount": "122798",
+    "likeCount": "2535",
     "durationSec": 1517,
     "tags": [
       "ANALYSIS"
@@ -119,7 +119,7 @@
     "publishedAt": "2026-09-06T16:25:41Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "16203",
+    "viewCount": "16204",
     "likeCount": "405",
     "durationSec": 1369,
     "tags": [
@@ -151,7 +151,7 @@
     "publishedAt": "2026-09-02T09:07:36Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "15528",
+    "viewCount": "15533",
     "likeCount": "516",
     "durationSec": 124,
     "tags": [
@@ -167,7 +167,7 @@
     "publishedAt": "2026-08-25T16:17:44Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "228692",
+    "viewCount": "228741",
     "likeCount": "3500",
     "durationSec": 1225,
     "tags": [
@@ -183,7 +183,7 @@
     "publishedAt": "2026-08-23T19:34:22Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "50022",
+    "viewCount": "50023",
     "likeCount": "1492",
     "durationSec": 1127,
     "tags": [
@@ -215,12 +215,28 @@
     "publishedAt": "2026-07-26T16:22:51Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "6718",
+    "viewCount": "6719",
     "likeCount": "249",
     "durationSec": 1283,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=70ENc03jydQ"
+  },
+  {
+    "id": "psAp1lLvNcs",
+    "title": "2026 F1 Hungarian GP FRIDAY Practice Analysis",
+    "description": "2026 F1 Hungarian GP FRIDAY Practice Analysis.\n\nDownload my long corners cheat sheet here: https://lowerlaptime.com/p/longcornertechniques\n\nCHAPTERS:\n00:00 Introduction\n00:20 Conditions & Front Lock Ups\n02:15 Final Corner Analysis\n09:12 Kimi Antonelli Short Corners Discussion\n15:19 Kimi's Approach This Year\n18:00 T2 Analysis\n19:43 Chicane Analysis\n21:00 FP2 - T1 Lock Ups - A Cause\n22:26 FP2 Final Corner Analysis\n26:04 FP2 Antonelli Line\n28:05 FP2 Lewis Early Turn In Line\n29:03 FP2 Leclerc Final ",
+    "thumbnail": "https://i.ytimg.com/vi/psAp1lLvNcs/maxresdefault.jpg",
+    "publishedAt": "2026-07-24T17:13:51Z",
+    "channelTitle": "lowerlaptime",
+    "channelScore": 0.5,
+    "viewCount": "7880",
+    "likeCount": "318",
+    "durationSec": 2066,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=psAp1lLvNcs"
   }
 ]
