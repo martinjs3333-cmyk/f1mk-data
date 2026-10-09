@@ -7,7 +7,7 @@
     "publishedAt": "2026-10-06T15:00:07Z",
     "channelTitle": "F1NewsLab",
     "channelScore": 0.5,
-    "viewCount": "8227",
+    "viewCount": "8324",
     "likeCount": "39",
     "durationSec": 992,
     "tags": [
@@ -23,7 +23,7 @@
     "publishedAt": "2026-10-06T03:05:51Z",
     "channelTitle": "Grid Girls Formula: An F1 Podcast",
     "channelScore": 0.5,
-    "viewCount": "1494",
+    "viewCount": "1503",
     "likeCount": "32",
     "durationSec": 107,
     "tags": [
@@ -39,8 +39,8 @@
     "publishedAt": "2026-10-04T18:45:27Z",
     "channelTitle": "F1 News - TacticalRab",
     "channelScore": 0.5,
-    "viewCount": "146461",
-    "likeCount": "2879",
+    "viewCount": "146543",
+    "likeCount": "2880",
     "durationSec": 1518,
     "tags": [
       "REACTION",
@@ -56,7 +56,7 @@
     "publishedAt": "2026-10-04T13:09:24Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "164293",
+    "viewCount": "164338",
     "likeCount": "2716",
     "durationSec": 810,
     "tags": [
@@ -72,8 +72,8 @@
     "publishedAt": "2026-10-03T09:44:16Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "13668",
-    "likeCount": "315",
+    "viewCount": "13690",
+    "likeCount": "316",
     "durationSec": 883,
     "tags": [
       "QUALI",
@@ -89,8 +89,8 @@
     "publishedAt": "2026-10-02T01:58:54Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "162145",
-    "likeCount": "4052",
+    "viewCount": "163241",
+    "likeCount": "4076",
     "durationSec": 100,
     "tags": [
       "ANALYSIS"
@@ -105,7 +105,7 @@
     "publishedAt": "2026-09-26T18:15:30Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "78744",
+    "viewCount": "78747",
     "likeCount": "1775",
     "durationSec": 1091,
     "tags": [
@@ -128,22 +128,6 @@
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=3s7pwUmrnrI"
-  },
-  {
-    "id": "FyRuLHQpjGE",
-    "title": "Driver Coach Race Analysis - 2026 F1 Spanish GP in Madrid.",
-    "description": "Driver Coach Analyses 2026 F1 Spanish GP RACE in Madrid.\nCHAPTERS:\n00:00 Introduction\n00:28 Lando Norris - His Start\n03:23 Lando Norris - Strategy\n04:49 T1 Curbs\n07:30 Charles T13\n10:30 Oscar Piastri Discussion\n14:28 Max & Lewis Start\n16:21 Kimi Antonelli & George Mindset?\n18:56 Data Lando's First Stint\n21:00 Driving A  2026 F1 Simulation\n21:30 Your Comments\n-------------------------------------------------------------------------\n❓ Have a question or thought? Drop it in the comments for me!\n👍 ",
-    "thumbnail": "https://i.ytimg.com/vi/FyRuLHQpjGE/maxresdefault.jpg",
-    "publishedAt": "2026-09-13T16:12:10Z",
-    "channelTitle": "lowerlaptime",
-    "channelScore": 0.5,
-    "viewCount": "11264",
-    "likeCount": "222",
-    "durationSec": 1317,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=FyRuLHQpjGE"
   },
   {
     "id": "9AlXxiMT8Rc",
@@ -185,12 +169,28 @@
     "publishedAt": "2026-09-10T10:47:09Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "111949",
+    "viewCount": "111951",
     "likeCount": "1565",
     "durationSec": 132,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=31LrCIPBpSA"
+  },
+  {
+    "id": "jRoV3U2LwRo",
+    "title": "Breaking Down Our Newest Circuit, The MADRING 😍",
+    "description": "A track with high speed sections, followed by lower speed, for those prime overtaking spots 😮‍💨\n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #SpanishGP",
+    "thumbnail": "https://i.ytimg.com/vi/jRoV3U2LwRo/maxresdefault.jpg",
+    "publishedAt": "2026-09-09T15:00:05Z",
+    "channelTitle": "FORMULA 1",
+    "channelScore": 1,
+    "viewCount": "379856",
+    "likeCount": "11564",
+    "durationSec": 156,
+    "tags": [
+      "NEWS"
+    ],
+    "url": "https://www.youtube.com/watch?v=jRoV3U2LwRo"
   }
 ]
