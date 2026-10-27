@@ -7,8 +7,8 @@
     "publishedAt": "2025-04-30T16:02:04Z",
     "channelTitle": "Don Toliver - Topic",
     "channelScore": 0.5,
-    "viewCount": "115290228",
-    "likeCount": "637507",
+    "viewCount": "115333095",
+    "likeCount": "637671",
     "durationSec": 210,
     "tags": [
       "GENERAL"
@@ -23,8 +23,8 @@
     "publishedAt": "2019-10-04T13:00:41Z",
     "channelTitle": "Labrinth",
     "channelScore": 0.5,
-    "viewCount": "79425215",
-    "likeCount": "964666",
+    "viewCount": "79432214",
+    "likeCount": "964684",
     "durationSec": 92,
     "tags": [
       "GENERAL"
@@ -39,8 +39,8 @@
     "publishedAt": "2018-11-25T12:44:45Z",
     "channelTitle": "Brian Tyler (ARE WE DREAMING)",
     "channelScore": 0.5,
-    "viewCount": "46923146",
-    "likeCount": "614323",
+    "viewCount": "46931618",
+    "likeCount": "614373",
     "durationSec": 208,
     "tags": [
       "GENERAL"
@@ -55,8 +55,8 @@
     "publishedAt": "2025-06-26T10:04:41Z",
     "channelTitle": "Hans Zimmer - Topic",
     "channelScore": 0.5,
-    "viewCount": "37410606",
-    "likeCount": "366164",
+    "viewCount": "37422753",
+    "likeCount": "366229",
     "durationSec": 194,
     "tags": [
       "GENERAL"
@@ -71,8 +71,8 @@
     "publishedAt": "2026-01-30T00:49:03Z",
     "channelTitle": "ActuallyVen",
     "channelScore": 0.5,
-    "viewCount": "45870274",
-    "likeCount": "1363152",
+    "viewCount": "45906815",
+    "likeCount": "1364076",
     "durationSec": 98,
     "tags": [
       "GENERAL"
@@ -87,8 +87,8 @@
     "publishedAt": "2021-12-17T17:05:28Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "23535541",
-    "likeCount": "298517",
+    "viewCount": "23536033",
+    "likeCount": "298510",
     "durationSec": 894,
     "tags": [
       "GENERAL"
@@ -103,8 +103,8 @@
     "publishedAt": "2025-06-27T00:02:45Z",
     "channelTitle": "Jasiel Nuñez - Topic",
     "channelScore": 0.5,
-    "viewCount": "21951727",
-    "likeCount": "183729",
+    "viewCount": "21954156",
+    "likeCount": "183742",
     "durationSec": 186,
     "tags": [
       "GENERAL"
@@ -119,8 +119,8 @@
     "publishedAt": "2024-10-02T14:00:10Z",
     "channelTitle": "Red Bull",
     "channelScore": 0.5,
-    "viewCount": "17969482",
-    "likeCount": "226904",
+    "viewCount": "17972307",
+    "likeCount": "226903",
     "durationSec": 600,
     "tags": [
       "GENERAL"
@@ -135,29 +135,13 @@
     "publishedAt": "2018-12-21T12:43:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "17156588",
-    "likeCount": "165436",
+    "viewCount": "17156935",
+    "likeCount": "165434",
     "durationSec": 250,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=Xsix_VOlRGo"
-  },
-  {
-    "id": "md9-jG4RzXs",
-    "title": "Race Highlights | 2025 Australian Grand Prix",
-    "description": "Relive the incredible action from the Australian Grand Prix, which featured multiple crashes, changing weather conditions, Safety Cars and a late-race downpour that caused drama until the final flag.\n\nFor more F1® videos, visit https://www.Formula1.com\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #AusGP",
-    "thumbnail": "https://i.ytimg.com/vi/md9-jG4RzXs/maxresdefault.jpg",
-    "publishedAt": "2025-03-16T07:38:24Z",
-    "channelTitle": "FORMULA 1",
-    "channelScore": 1,
-    "viewCount": "15723358",
-    "likeCount": "265522",
-    "durationSec": 782,
-    "tags": [
-      "RACE"
-    ],
-    "url": "https://www.youtube.com/watch?v=md9-jG4RzXs"
   },
   {
     "id": "wvcjtF7TZkk",
@@ -167,13 +151,29 @@
     "publishedAt": "2026-02-09T19:08:30Z",
     "channelTitle": "ActuallyVen",
     "channelScore": 0.5,
-    "viewCount": "29474735",
-    "likeCount": "882291",
+    "viewCount": "29495040",
+    "likeCount": "882786",
     "durationSec": 88,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=wvcjtF7TZkk"
+  },
+  {
+    "id": "md9-jG4RzXs",
+    "title": "Race Highlights | 2025 Australian Grand Prix",
+    "description": "Relive the incredible action from the Australian Grand Prix, which featured multiple crashes, changing weather conditions, Safety Cars and a late-race downpour that caused drama until the final flag.\n\nFor more F1® videos, visit https://www.Formula1.com\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #AusGP",
+    "thumbnail": "https://i.ytimg.com/vi/md9-jG4RzXs/maxresdefault.jpg",
+    "publishedAt": "2025-03-16T07:38:24Z",
+    "channelTitle": "FORMULA 1",
+    "channelScore": 1,
+    "viewCount": "15724142",
+    "likeCount": "265517",
+    "durationSec": 782,
+    "tags": [
+      "RACE"
+    ],
+    "url": "https://www.youtube.com/watch?v=md9-jG4RzXs"
   },
   {
     "id": "_QmiNC9d788",
@@ -183,8 +183,8 @@
     "publishedAt": "2018-03-19T21:32:39Z",
     "channelTitle": "Brian Tyler - Topic",
     "channelScore": 0.5,
-    "viewCount": "15296767",
-    "likeCount": "140611",
+    "viewCount": "15300025",
+    "likeCount": "140624",
     "durationSec": 195,
     "tags": [
       "GENERAL"
@@ -199,8 +199,8 @@
     "publishedAt": "2021-12-12T15:50:36Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "13827910",
-    "likeCount": "250820",
+    "viewCount": "13828970",
+    "likeCount": "250824",
     "durationSec": 122,
     "tags": [
       "GENERAL"
@@ -215,7 +215,7 @@
     "publishedAt": "2020-01-10T20:00:14Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "13152424",
+    "viewCount": "13152671",
     "likeCount": "146884",
     "durationSec": 601,
     "tags": [
@@ -231,8 +231,8 @@
     "publishedAt": "2025-04-01T02:23:23Z",
     "channelTitle": "WhistlinDiesel",
     "channelScore": 0.5,
-    "viewCount": "12793091",
-    "likeCount": "372152",
+    "viewCount": "12794099",
+    "likeCount": "372146",
     "durationSec": 804,
     "tags": [
       "GENERAL"
@@ -247,8 +247,8 @@
     "publishedAt": "2020-01-11T12:00:11Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12401476",
-    "likeCount": "124797",
+    "viewCount": "12401984",
+    "likeCount": "124803",
     "durationSec": 1220,
     "tags": [
       "GENERAL"
@@ -263,8 +263,8 @@
     "publishedAt": "2026-03-08T06:19:19Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12506536",
-    "likeCount": "221735",
+    "viewCount": "12507917",
+    "likeCount": "221744",
     "durationSec": 491,
     "tags": [
       "RACE"
@@ -279,7 +279,7 @@
     "publishedAt": "2022-07-11T16:35:02Z",
     "channelTitle": "Xalf",
     "channelScore": 0.5,
-    "viewCount": "12245401",
+    "viewCount": "12246567",
     "likeCount": "92700",
     "durationSec": 263,
     "tags": [
@@ -295,8 +295,8 @@
     "publishedAt": "2022-07-03T17:54:39Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12179940",
-    "likeCount": "233351",
+    "viewCount": "12180156",
+    "likeCount": "233348",
     "durationSec": 437,
     "tags": [
       "RACE"
@@ -311,8 +311,8 @@
     "publishedAt": "2021-01-04T20:00:11Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12089725",
-    "likeCount": "134501",
+    "viewCount": "12090398",
+    "likeCount": "134505",
     "durationSec": 1119,
     "tags": [
       "RACE"
@@ -327,8 +327,8 @@
     "publishedAt": "2021-03-28T18:50:02Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11395086",
-    "likeCount": "158122",
+    "viewCount": "11396167",
+    "likeCount": "158127",
     "durationSec": 432,
     "tags": [
       "RACE"
@@ -343,8 +343,8 @@
     "publishedAt": "2025-07-10T17:30:06Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11495091",
-    "likeCount": "170426",
+    "viewCount": "11496858",
+    "likeCount": "170427",
     "durationSec": 1541,
     "tags": [
       "GENERAL"
@@ -359,8 +359,8 @@
     "publishedAt": "2023-04-02T09:00:12Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11030859",
-    "likeCount": "182275",
+    "viewCount": "11031037",
+    "likeCount": "182278",
     "durationSec": 495,
     "tags": [
       "RACE"
@@ -375,8 +375,8 @@
     "publishedAt": "2024-12-19T16:00:39Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11116787",
-    "likeCount": "59042",
+    "viewCount": "11118697",
+    "likeCount": "59041",
     "durationSec": 11448,
     "tags": [
       "RACE"
@@ -391,8 +391,8 @@
     "publishedAt": "2025-04-20T18:24:40Z",
     "channelTitle": "Mat Armstrong",
     "channelScore": 0.5,
-    "viewCount": "11011978",
-    "likeCount": "258579",
+    "viewCount": "11014403",
+    "likeCount": "258599",
     "durationSec": 3294,
     "tags": [
       "GENERAL"
@@ -407,8 +407,8 @@
     "publishedAt": "2021-11-17T07:53:17Z",
     "channelTitle": "Animagraffs",
     "channelScore": 0.5,
-    "viewCount": "10333949",
-    "likeCount": "221732",
+    "viewCount": "10334664",
+    "likeCount": "221740",
     "durationSec": 1393,
     "tags": [
       "GENERAL"
@@ -423,8 +423,8 @@
     "publishedAt": "2021-12-05T21:26:21Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "10214187",
-    "likeCount": "166136",
+    "viewCount": "10214558",
+    "likeCount": "166141",
     "durationSec": 431,
     "tags": [
       "RACE"
@@ -439,8 +439,8 @@
     "publishedAt": "2024-07-11T05:29:14Z",
     "channelTitle": "WheelBeast",
     "channelScore": 0.5,
-    "viewCount": "10084107",
-    "likeCount": "24121",
+    "viewCount": "10086383",
+    "likeCount": "24119",
     "durationSec": 489,
     "tags": [
       "GENERAL"
@@ -455,7 +455,7 @@
     "publishedAt": "2024-11-03T18:43:53Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "10044523",
+    "viewCount": "10044991",
     "likeCount": "177824",
     "durationSec": 490,
     "tags": [
@@ -471,8 +471,8 @@
     "publishedAt": "2021-09-12T16:00:05Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9956909",
-    "likeCount": "180693",
+    "viewCount": "9957070",
+    "likeCount": "180695",
     "durationSec": 422,
     "tags": [
       "RACE"
@@ -487,28 +487,12 @@
     "publishedAt": "2014-03-29T13:04:54Z",
     "channelTitle": "Marchettino",
     "channelScore": 0.5,
-    "viewCount": "9880045",
-    "likeCount": "66810",
+    "viewCount": "9880388",
+    "likeCount": "66812",
     "durationSec": 239,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=qvWxhhi0_yk"
-  },
-  {
-    "id": "B4pF4bMwYYI",
-    "title": "Top 10 Moments of Max Verstappen Magic in F1",
-    "description": "He's just been re-signed at Red Bull until the end of 2023 - giving us another four years of Max doing what he does best! Join us as we take a look back at some of his most memorable moments so far...\n\nFor more F1® videos, visit http://www.Formula1.com\n\nLike F1® on Facebook: https://www.facebook.com/Formula1/\n\nFollow F1® on Twitter: http://www.twitter.com/F1\n\nFollow F1® on Instagram: http://www.instagram.com/F1\n\n#F1",
-    "thumbnail": "https://i.ytimg.com/vi/B4pF4bMwYYI/maxresdefault.jpg",
-    "publishedAt": "2020-01-08T17:42:54Z",
-    "channelTitle": "FORMULA 1",
-    "channelScore": 1,
-    "viewCount": "9894653",
-    "likeCount": "136539",
-    "durationSec": 543,
-    "tags": [
-      "GENERAL"
-    ],
-    "url": "https://www.youtube.com/watch?v=B4pF4bMwYYI"
   }
 ]
