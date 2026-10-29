@@ -7,7 +7,7 @@
     "publishedAt": "2026-10-28T15:20:30Z",
     "channelTitle": "Bee Blunder",
     "channelScore": 0.5,
-    "viewCount": "9",
+    "viewCount": "15",
     "likeCount": "0",
     "durationSec": 5753,
     "tags": [
@@ -23,7 +23,7 @@
     "publishedAt": "2026-10-27T21:41:24Z",
     "channelTitle": "The Hot Lap",
     "channelScore": 0.5,
-    "viewCount": "107",
+    "viewCount": "117",
     "likeCount": "2",
     "durationSec": 931,
     "tags": [
@@ -39,7 +39,7 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "385909",
+    "viewCount": "386091",
     "likeCount": "3025",
     "durationSec": 959,
     "tags": [
@@ -55,7 +55,7 @@
     "publishedAt": "2026-10-09T21:07:01Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "36565",
+    "viewCount": "36568",
     "likeCount": "809",
     "durationSec": 165,
     "tags": [
@@ -71,7 +71,7 @@
     "publishedAt": "2026-10-09T18:19:00Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "100320",
+    "viewCount": "100321",
     "likeCount": "2210",
     "durationSec": 75,
     "tags": [
@@ -87,7 +87,7 @@
     "publishedAt": "2026-10-09T14:50:41Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "16820",
+    "viewCount": "16821",
     "likeCount": "259",
     "durationSec": 1137,
     "tags": [
@@ -103,7 +103,7 @@
     "publishedAt": "2026-10-06T17:15:14Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "401314",
+    "viewCount": "401441",
     "likeCount": "3186",
     "durationSec": 745,
     "tags": [
@@ -119,7 +119,7 @@
     "publishedAt": "2026-10-05T16:26:23Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "489451",
+    "viewCount": "489539",
     "likeCount": "3927",
     "durationSec": 614,
     "tags": [
@@ -135,8 +135,8 @@
     "publishedAt": "2026-10-04T18:22:30Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "848966",
-    "likeCount": "8033",
+    "viewCount": "849040",
+    "likeCount": "8034",
     "durationSec": 694,
     "tags": [
       "GENERAL"
@@ -151,7 +151,7 @@
     "publishedAt": "2026-10-04T13:09:24Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "167341",
+    "viewCount": "167343",
     "likeCount": "2723",
     "durationSec": 810,
     "tags": [
@@ -167,7 +167,7 @@
     "publishedAt": "2026-10-04T11:50:26Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "36749",
+    "viewCount": "36752",
     "likeCount": "539",
     "durationSec": 1068,
     "tags": [
@@ -183,12 +183,28 @@
     "publishedAt": "2026-10-02T13:24:43Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "67791",
+    "viewCount": "67795",
     "likeCount": "1095",
     "durationSec": 740,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=gqn0NvVNHzA"
+  },
+  {
+    "id": "qucpDEPqLss",
+    "title": "🏁 Bahrain GP Track Analysis – Everything You Need to Know! 🇲🇾✨ #F1 #Formula1 #BahrainGP",
+    "description": "",
+    "thumbnail": "https://i.ytimg.com/vi/qucpDEPqLss/maxresdefault.jpg",
+    "publishedAt": "2026-10-02T01:58:54Z",
+    "channelTitle": "Formula Neon F1",
+    "channelScore": 0.5,
+    "viewCount": "205946",
+    "likeCount": "5022",
+    "durationSec": 100,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=qucpDEPqLss"
   }
 ]
