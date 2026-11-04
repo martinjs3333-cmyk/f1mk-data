@@ -7,7 +7,7 @@
     "publishedAt": "2026-11-03T20:00:27Z",
     "channelTitle": "Only Formula",
     "channelScore": 0.5,
-    "viewCount": "4",
+    "viewCount": "5",
     "likeCount": "0",
     "durationSec": 512,
     "tags": [
@@ -23,8 +23,8 @@
     "publishedAt": "2026-11-02T21:35:19Z",
     "channelTitle": "F1 Explained",
     "channelScore": 0.5,
-    "viewCount": "2027",
-    "likeCount": "7",
+    "viewCount": "2282",
+    "likeCount": "8",
     "durationSec": 269,
     "tags": [
       "ANALYSIS"
@@ -39,7 +39,7 @@
     "publishedAt": "2026-11-02T14:30:04Z",
     "channelTitle": "India Play Book",
     "channelScore": 0.5,
-    "viewCount": "33",
+    "viewCount": "56",
     "likeCount": "1",
     "durationSec": 412,
     "tags": [
@@ -55,8 +55,8 @@
     "publishedAt": "2026-11-02T02:26:02Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "14938",
-    "likeCount": "246",
+    "viewCount": "15080",
+    "likeCount": "247",
     "durationSec": 1061,
     "tags": [
       "ANALYSIS"
@@ -71,7 +71,7 @@
     "publishedAt": "2026-11-01T00:54:40Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "75534",
+    "viewCount": "75560",
     "likeCount": "1330",
     "durationSec": 929,
     "tags": [
@@ -88,8 +88,8 @@
     "publishedAt": "2026-10-29T14:00:26Z",
     "channelTitle": "Gridline F1 News",
     "channelScore": 0.5,
-    "viewCount": "5158",
-    "likeCount": "25",
+    "viewCount": "5175",
+    "likeCount": "26",
     "durationSec": 667,
     "tags": [
       "ANALYSIS"
@@ -104,7 +104,7 @@
     "publishedAt": "2026-10-26T03:22:08Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "8137",
+    "viewCount": "8138",
     "likeCount": "139",
     "durationSec": 943,
     "tags": [
@@ -120,8 +120,8 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "395073",
-    "likeCount": "3027",
+    "viewCount": "395214",
+    "likeCount": "3026",
     "durationSec": 959,
     "tags": [
       "ANALYSIS"
@@ -136,7 +136,7 @@
     "publishedAt": "2026-10-11T19:14:54Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "120026",
+    "viewCount": "120031",
     "likeCount": "2252",
     "durationSec": 1240,
     "tags": [
@@ -152,8 +152,8 @@
     "publishedAt": "2026-10-09T18:19:00Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "100376",
-    "likeCount": "2210",
+    "viewCount": "100378",
+    "likeCount": "2209",
     "durationSec": 75,
     "tags": [
       "ANALYSIS"
@@ -184,8 +184,8 @@
     "publishedAt": "2026-10-06T17:15:14Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "407505",
-    "likeCount": "3186",
+    "viewCount": "407634",
+    "likeCount": "3187",
     "durationSec": 745,
     "tags": [
       "ANALYSIS"
@@ -200,12 +200,28 @@
     "publishedAt": "2026-10-05T16:26:23Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "491106",
+    "viewCount": "491188",
     "likeCount": "3937",
     "durationSec": 614,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=6FBOo3vuSGA"
+  },
+  {
+    "id": "JgUSPTsBPjQ",
+    "title": "Why F1’s 2026 cars failed in the rain",
+    "description": "What should have been the first wet race for F1's new-generation cars got off to an embarrassing start at the Bahrain Grand Prix in Malaysia.\n\nEdd Straw and Jon Noble explain exactly what happened to trigger the bizarre scenes of cars slowing to a crawl on the formation lap, how it was resolved, and whether it could happen again.\n\n00:00 What went wrong\n01:51 Why it happened\n03:34 How it was fixed\n05:59 Why different cars were affected in different ways\n08:47 How bad is this for F1?\n10:48 Could i",
+    "thumbnail": "https://i.ytimg.com/vi/JgUSPTsBPjQ/maxresdefault.jpg",
+    "publishedAt": "2026-10-04T18:22:30Z",
+    "channelTitle": "THE RACE",
+    "channelScore": 0.85,
+    "viewCount": "849759",
+    "likeCount": "8035",
+    "durationSec": 694,
+    "tags": [
+      "GENERAL"
+    ],
+    "url": "https://www.youtube.com/watch?v=JgUSPTsBPjQ"
   }
 ]
