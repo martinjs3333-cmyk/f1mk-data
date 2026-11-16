@@ -1,5 +1,21 @@
 [
   {
+    "id": "JJEu0HUDaVE",
+    "title": "Drivers On A Mission + McLaren v Red Bull | Las Vegas GP Preview | F1 Nation",
+    "description": "AWS - Global AI Partner of Formula 1 - sponsors this episode of F1 Nation\n\nTom Clarkson, Jolyon Palmer and James Hinchcliffe look ahead to F1 touching down in the Nevada desert for the Las Vegas Grand Prix, a race like no other. They're also paid a visit by McLaren's Senior Racing Director Randy Singh for an insight into how the team are approaching the final three races of the season and their focus on finishing ahead of Red Bull in the Constructors' Championship.\n\nThere's also debate around wh",
+    "thumbnail": "https://i.ytimg.com/vi/JJEu0HUDaVE/maxresdefault.jpg",
+    "publishedAt": "2026-11-16T11:00:35Z",
+    "channelTitle": "FORMULA 1",
+    "channelScore": 1,
+    "viewCount": "70135",
+    "likeCount": "616",
+    "durationSec": 2900,
+    "tags": [
+      "GENERAL"
+    ],
+    "url": "https://www.youtube.com/watch?v=JJEu0HUDaVE"
+  },
+  {
     "id": "GWI5G64W-ww",
     "title": "F1 Drivers Answer The Internet's Toughest Questions!",
     "description": "Is a hotdog a sandwich? Does pineapple belong on pizza? We asked the drivers some of the internet's most hotly-debated questions! Tune in to see how they responded...\n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1",
@@ -7,8 +23,8 @@
     "publishedAt": "2026-11-13T17:30:09Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1029895",
-    "likeCount": "23439",
+    "viewCount": "1110633",
+    "likeCount": "24792",
     "durationSec": 609,
     "tags": [
       "GENERAL"
@@ -23,8 +39,8 @@
     "publishedAt": "2026-11-12T16:00:12Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "363600",
-    "likeCount": "4958",
+    "viewCount": "372463",
+    "likeCount": "5080",
     "durationSec": 743,
     "tags": [
       "GENERAL"
@@ -39,8 +55,8 @@
     "publishedAt": "2026-11-11T14:00:13Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "206508",
-    "likeCount": "2348",
+    "viewCount": "209433",
+    "likeCount": "2382",
     "durationSec": 1550,
     "tags": [
       "GENERAL"
@@ -55,8 +71,8 @@
     "publishedAt": "2026-11-11T11:30:06Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "100752",
-    "likeCount": "829",
+    "viewCount": "102598",
+    "likeCount": "836",
     "durationSec": 2094,
     "tags": [
       "GENERAL"
@@ -71,8 +87,8 @@
     "publishedAt": "2026-11-10T19:00:09Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "778732",
-    "likeCount": "14310",
+    "viewCount": "792756",
+    "likeCount": "14511",
     "durationSec": 1155,
     "tags": [
       "REACTION"
@@ -87,8 +103,8 @@
     "publishedAt": "2026-11-10T16:41:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "223479",
-    "likeCount": "1957",
+    "viewCount": "226247",
+    "likeCount": "1969",
     "durationSec": 1000,
     "tags": [
       "ANALYSIS"
@@ -103,8 +119,8 @@
     "publishedAt": "2026-11-10T11:30:09Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "500196",
-    "likeCount": "5513",
+    "viewCount": "503695",
+    "likeCount": "5548",
     "durationSec": 566,
     "tags": [
       "ONBOARD"
@@ -119,8 +135,8 @@
     "publishedAt": "2026-11-09T18:00:19Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1257458",
-    "likeCount": "16709",
+    "viewCount": "1264889",
+    "likeCount": "16783",
     "durationSec": 536,
     "tags": [
       "GENERAL"
@@ -135,13 +151,29 @@
     "publishedAt": "2026-11-09T17:18:56Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "716618",
-    "likeCount": "8246",
+    "viewCount": "720133",
+    "likeCount": "8283",
     "durationSec": 1098,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=LwU_TNRBjk8"
+  },
+  {
+    "id": "x5sCtf2NHQA",
+    "title": "Accuracy, Precision, Recall and F1 Explained with Football Data",
+    "description": "Accuracy, precision, recall, specificity and the F1 score explained with football data: the numbers that summarize a confusion matrix.\nWe compute each of them from the four cells, add balanced accuracy, and see why accuracy can mislead when a class is rare.\n\nChapters\n0:00 Six players and their confusion matrix\n2:15 Accuracy and error rate\n2:54 Precision, recall and specificity\n4:12 F1 score and balanced accuracy\n5:21 A lower threshold changes the numbers\n7:52 All players, and the base rate\n9:56 ",
+    "thumbnail": "https://i.ytimg.com/vi/x5sCtf2NHQA/maxresdefault.jpg",
+    "publishedAt": "2026-11-09T13:20:55Z",
+    "channelTitle": "Prof. Markus Weinmann",
+    "channelScore": 0.5,
+    "viewCount": "9",
+    "likeCount": "1",
+    "durationSec": 641,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=x5sCtf2NHQA"
   },
   {
     "id": "bdNF-he0RcE",
@@ -151,8 +183,8 @@
     "publishedAt": "2026-11-09T12:58:04Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "110698",
-    "likeCount": "778",
+    "viewCount": "111593",
+    "likeCount": "784",
     "durationSec": 3330,
     "tags": [
       "GENERAL"
@@ -167,8 +199,8 @@
     "publishedAt": "2026-11-08T22:33:42Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "765008",
-    "likeCount": "9984",
+    "viewCount": "766001",
+    "likeCount": "9989",
     "durationSec": 676,
     "tags": [
       "REACTION"
@@ -183,8 +215,8 @@
     "publishedAt": "2026-11-08T19:57:16Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "7232775",
-    "likeCount": "88369",
+    "viewCount": "7265703",
+    "likeCount": "88557",
     "durationSec": 492,
     "tags": [
       "RACE"
@@ -199,8 +231,8 @@
     "publishedAt": "2026-11-08T10:46:43Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "391574",
-    "likeCount": "5567",
+    "viewCount": "393257",
+    "likeCount": "5588",
     "durationSec": 1292,
     "tags": [
       "GENERAL"
@@ -215,8 +247,8 @@
     "publishedAt": "2026-11-08T00:29:33Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "7512",
-    "likeCount": "174",
+    "viewCount": "7518",
+    "likeCount": "175",
     "durationSec": 898,
     "tags": [
       "QUALI",
@@ -232,8 +264,8 @@
     "publishedAt": "2026-11-07T23:33:32Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "332884",
-    "likeCount": "6628",
+    "viewCount": "333626",
+    "likeCount": "6637",
     "durationSec": 118,
     "tags": [
       "QUALI",
@@ -249,8 +281,8 @@
     "publishedAt": "2026-11-07T22:34:04Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "579419",
-    "likeCount": "8323",
+    "viewCount": "579616",
+    "likeCount": "8327",
     "durationSec": 546,
     "tags": [
       "QUALI",
@@ -266,8 +298,8 @@
     "publishedAt": "2026-11-07T21:16:28Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "5659015",
-    "likeCount": "63712",
+    "viewCount": "5660866",
+    "likeCount": "63723",
     "durationSec": 482,
     "tags": [
       "QUALI"
@@ -282,7 +314,7 @@
     "publishedAt": "2026-11-07T16:48:35Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1184359",
+    "viewCount": "1184663",
     "likeCount": "14968",
     "durationSec": 274,
     "tags": [
@@ -298,8 +330,8 @@
     "publishedAt": "2026-11-06T21:33:44Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "650343",
-    "likeCount": "5368",
+    "viewCount": "650564",
+    "likeCount": "5371",
     "durationSec": 765,
     "tags": [
       "TECH"
@@ -314,8 +346,8 @@
     "publishedAt": "2026-11-06T21:04:12Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1955522",
-    "likeCount": "26547",
+    "viewCount": "1955792",
+    "likeCount": "26546",
     "durationSec": 241,
     "tags": [
       "FP"
@@ -330,8 +362,8 @@
     "publishedAt": "2026-11-06T18:22:52Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "2159853",
-    "likeCount": "28870",
+    "viewCount": "2160193",
+    "likeCount": "28872",
     "durationSec": 285,
     "tags": [
       "FP"
@@ -346,8 +378,8 @@
     "publishedAt": "2026-11-05T23:15:25Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "455574",
-    "likeCount": "6140",
+    "viewCount": "455712",
+    "likeCount": "6142",
     "durationSec": 848,
     "tags": [
       "GENERAL"
@@ -362,8 +394,8 @@
     "publishedAt": "2026-11-05T22:45:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "452410",
-    "likeCount": "5062",
+    "viewCount": "452630",
+    "likeCount": "5064",
     "durationSec": 1865,
     "tags": [
       "GENERAL"
@@ -378,8 +410,8 @@
     "publishedAt": "2026-11-05T18:45:39Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "297374",
-    "likeCount": "5812",
+    "viewCount": "297567",
+    "likeCount": "5815",
     "durationSec": 472,
     "tags": [
       "GENERAL"
@@ -387,20 +419,20 @@
     "url": "https://www.youtube.com/watch?v=6l089xrn_eI"
   },
   {
-    "id": "Jkrn-zJ2EG8",
-    "title": "F1 Explained in 60 Seconds: The ULTIMATE Beginner's Guide",
-    "description": "New to Formula 1? We explain the core concepts of an F1 race weekend so you can follow the action with confidence. 🏁\n\nUnderstanding how the sport works can be overwhelming, but we break down the essentials from track conditions to the grid. Whether you are curious about how tire choices influence performance in wet or dry weather, or how teams utilize the undercut strategy to gain a competitive advantage, this guide covers the basics for every new fan.\n\nWe also look at essential safety car proc",
-    "thumbnail": "https://i.ytimg.com/vi/Jkrn-zJ2EG8/maxresdefault.jpg",
-    "publishedAt": "2026-11-05T13:23:02Z",
-    "channelTitle": "Beyond Track Limits",
+    "id": "uW-vTPB5O_s",
+    "title": "Aston Martins Mexico DNF's Explained",
+    "description": "Aston Martin had a torrid time at the 2026 F1 Mexican Grand Prix, here's why... \n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCihjJgRm3Th-quKmTW-9AwQ/join\n\nDISCORD: https://discord.gg/hUwWmvrc4N\nTIKTOK: https://www.tiktok.com/@fp1will?lang=en\nTWITCH: https://www.twitch.tv/fp1will\nPATREON: https://www.patreon.com/FP1\nTWITTER: https://twitter.com/FP1Will\nINSTAGRAM: https://www.instagram.com/fp1will/\nDon't forget to LIKE, COMMENT and SUBSCRIBE for weekly F1 content!\n\n",
+    "thumbnail": "https://i.ytimg.com/vi/uW-vTPB5O_s/maxresdefault.jpg",
+    "publishedAt": "2026-11-05T13:00:11Z",
+    "channelTitle": "FP1Will",
     "channelScore": 0.5,
-    "viewCount": "303",
-    "likeCount": "8",
-    "durationSec": 61,
+    "viewCount": "75209",
+    "likeCount": "1735",
+    "durationSec": 75,
     "tags": [
       "ANALYSIS"
     ],
-    "url": "https://www.youtube.com/watch?v=Jkrn-zJ2EG8"
+    "url": "https://www.youtube.com/watch?v=uW-vTPB5O_s"
   },
   {
     "id": "sE32fMtdynQ",
@@ -410,8 +442,8 @@
     "publishedAt": "2026-11-04T21:05:43Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "393789",
-    "likeCount": "6407",
+    "viewCount": "394782",
+    "likeCount": "6416",
     "durationSec": 1466,
     "tags": [
       "GENERAL"
@@ -426,8 +458,8 @@
     "publishedAt": "2026-11-04T18:08:34Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "195826",
-    "likeCount": "2507",
+    "viewCount": "196990",
+    "likeCount": "2520",
     "durationSec": 3953,
     "tags": [
       "GENERAL"
@@ -442,8 +474,8 @@
     "publishedAt": "2026-11-03T17:30:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "509346",
-    "likeCount": "5464",
+    "viewCount": "509704",
+    "likeCount": "5463",
     "durationSec": 861,
     "tags": [
       "ANALYSIS"
@@ -458,8 +490,8 @@
     "publishedAt": "2026-11-03T13:00:35Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "256919",
-    "likeCount": "3097",
+    "viewCount": "257175",
+    "likeCount": "3099",
     "durationSec": 641,
     "tags": [
       "ONBOARD"
@@ -474,8 +506,8 @@
     "publishedAt": "2026-11-02T22:34:41Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "501279",
-    "likeCount": "11461",
+    "viewCount": "501530",
+    "likeCount": "11464",
     "durationSec": 147,
     "tags": [
       "REACTION"
@@ -490,8 +522,8 @@
     "publishedAt": "2026-11-02T21:00:39Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1100784",
-    "likeCount": "11132",
+    "viewCount": "1102008",
+    "likeCount": "11138",
     "durationSec": 948,
     "tags": [
       "GENERAL"
@@ -506,8 +538,8 @@
     "publishedAt": "2026-11-02T20:00:29Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "889993",
-    "likeCount": "15255",
+    "viewCount": "892654",
+    "likeCount": "15284",
     "durationSec": 985,
     "tags": [
       "GENERAL"
@@ -522,8 +554,8 @@
     "publishedAt": "2026-11-02T18:51:28Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "960716",
-    "likeCount": "21910",
+    "viewCount": "962233",
+    "likeCount": "21930",
     "durationSec": 1225,
     "tags": [
       "GENERAL"
@@ -538,7 +570,7 @@
     "publishedAt": "2026-11-02T15:04:59Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "147244",
+    "viewCount": "147393",
     "likeCount": "1008",
     "durationSec": 2785,
     "tags": [
@@ -554,8 +586,8 @@
     "publishedAt": "2026-11-02T03:37:18Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "2014101",
-    "likeCount": "45789",
+    "viewCount": "2017808",
+    "likeCount": "45822",
     "durationSec": 301,
     "tags": [
       "GENERAL"
@@ -570,8 +602,8 @@
     "publishedAt": "2026-11-02T03:34:45Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1061563",
-    "likeCount": "18159",
+    "viewCount": "1061782",
+    "likeCount": "18160",
     "durationSec": 610,
     "tags": [
       "REACTION"
@@ -595,22 +627,6 @@
     "url": "https://www.youtube.com/watch?v=mimS5PUEKJU"
   },
   {
-    "id": "WViE8T1aRQo",
-    "title": "2026 F1 Mexican GP race analysis by Peter Windsor",
-    "description": "SPOILER ALERT: Peter Windsor details the key elements of a dramatic, compelling and often emotional day in Mexico. Watchable in 4k.\nBecome a channel member to enjoy our live race chats and other premium content:\nhttps//www.youtube.com/@peterwindsor/join\nAlternative race stats courtesy of Aleš Norskŷ:\nwww.GPfactsandnumbers.com \nWith thanks to Jetcraft, the world's largest buyer and seller of executive jets: https://jetcraft.com\nTo TrackNinja, a lap-timer and data app designed to help users improv",
-    "thumbnail": "https://i.ytimg.com/vi/WViE8T1aRQo/maxresdefault.jpg",
-    "publishedAt": "2026-11-02T02:09:33Z",
-    "channelTitle": "Peter Windsor",
-    "channelScore": 0.5,
-    "viewCount": "132282",
-    "likeCount": "2739",
-    "durationSec": 1706,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=WViE8T1aRQo"
-  },
-  {
     "id": "tIiRK7hKScU",
     "title": "Race Highlights | 2026 Mexico City Grand Prix",
     "description": "With Kimi Antonelli lining up P4 and the championship in his sights, can he drive his way to victory in Mexico? Catch up on all the highlights from The Autódromo Hermanos Rodríguez...\n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #MexicoGP",
@@ -618,8 +634,8 @@
     "publishedAt": "2026-11-01T23:24:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8706143",
-    "likeCount": "121647",
+    "viewCount": "8720768",
+    "likeCount": "121712",
     "durationSec": 488,
     "tags": [
       "RACE"
@@ -634,8 +650,8 @@
     "publishedAt": "2026-11-01T02:00:00Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "712729",
-    "likeCount": "10066",
+    "viewCount": "712786",
+    "likeCount": "10065",
     "durationSec": 553,
     "tags": [
       "QUALI",
@@ -651,8 +667,8 @@
     "publishedAt": "2026-11-01T01:15:11Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "643784",
-    "likeCount": "13523",
+    "viewCount": "644450",
+    "likeCount": "13532",
     "durationSec": 108,
     "tags": [
       "QUALI",
@@ -668,7 +684,7 @@
     "publishedAt": "2026-11-01T00:54:40Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "75875",
+    "viewCount": "75877",
     "likeCount": "1329",
     "durationSec": 929,
     "tags": [
@@ -685,7 +701,7 @@
     "publishedAt": "2026-11-01T00:36:04Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "371442",
+    "viewCount": "371533",
     "likeCount": "5043",
     "durationSec": 89,
     "tags": [
@@ -701,8 +717,8 @@
     "publishedAt": "2026-10-31T22:41:17Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "5592784",
-    "likeCount": "81710",
+    "viewCount": "5593505",
+    "likeCount": "81705",
     "durationSec": 483,
     "tags": [
       "QUALI"
@@ -717,8 +733,8 @@
     "publishedAt": "2026-10-31T19:54:25Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "956924",
-    "likeCount": "12549",
+    "viewCount": "956987",
+    "likeCount": "12550",
     "durationSec": 241,
     "tags": [
       "FP"
@@ -733,8 +749,8 @@
     "publishedAt": "2026-10-31T01:20:41Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "409592",
-    "likeCount": "3753",
+    "viewCount": "409647",
+    "likeCount": "3754",
     "durationSec": 923,
     "tags": [
       "TECH"
@@ -749,7 +765,7 @@
     "publishedAt": "2026-10-31T00:26:19Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "2265729",
+    "viewCount": "2265799",
     "likeCount": "25150",
     "durationSec": 244,
     "tags": [
@@ -765,8 +781,8 @@
     "publishedAt": "2026-10-30T21:33:38Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1925788",
-    "likeCount": "23653",
+    "viewCount": "1925870",
+    "likeCount": "23654",
     "durationSec": 268,
     "tags": [
       "FP"
@@ -781,8 +797,8 @@
     "publishedAt": "2026-10-30T17:03:34Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "27718",
-    "likeCount": "803",
+    "viewCount": "27725",
+    "likeCount": "804",
     "durationSec": 707,
     "tags": [
       "GENERAL"
@@ -797,7 +813,7 @@
     "publishedAt": "2026-10-30T01:15:07Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "337512",
+    "viewCount": "337541",
     "likeCount": "4043",
     "durationSec": 594,
     "tags": [
@@ -813,7 +829,7 @@
     "publishedAt": "2026-10-30T00:30:11Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "451273",
+    "viewCount": "451385",
     "likeCount": "4886",
     "durationSec": 2073,
     "tags": [
@@ -829,7 +845,7 @@
     "publishedAt": "2026-10-28T23:00:03Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "18225",
+    "viewCount": "18228",
     "likeCount": "721",
     "durationSec": 277,
     "tags": [
@@ -845,8 +861,8 @@
     "publishedAt": "2026-10-28T18:00:25Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "712790",
-    "likeCount": "7883",
+    "viewCount": "713189",
+    "likeCount": "7887",
     "durationSec": 1004,
     "tags": [
       "GENERAL"
@@ -861,29 +877,13 @@
     "publishedAt": "2026-10-28T13:30:32Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "719373",
-    "likeCount": "8979",
+    "viewCount": "721672",
+    "likeCount": "9001",
     "durationSec": 5410,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=wGTdDLoAWT0"
-  },
-  {
-    "id": "chf-Q8nWpwM",
-    "title": "Verstappen & Leclerc's Opening Lap Battle & The Key Strategies In Austin | F1 TV Palmer's Analysis",
-    "description": "Jolyon Palmer takes a closer look at the race start, as Max Verstappen and Charles Leclerc go wheel-to-wheel in an intense battle, along with all the key strategies in Austin.\n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #USGP",
-    "thumbnail": "https://i.ytimg.com/vi/chf-Q8nWpwM/maxresdefault.jpg",
-    "publishedAt": "2026-10-27T18:00:34Z",
-    "channelTitle": "FORMULA 1",
-    "channelScore": 1,
-    "viewCount": "320540",
-    "likeCount": "2222",
-    "durationSec": 919,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=chf-Q8nWpwM"
   },
   {
     "id": "5j0TQxXXNdY",
@@ -893,7 +893,7 @@
     "publishedAt": "2026-10-26T03:22:08Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "8168",
+    "viewCount": "8169",
     "likeCount": "139",
     "durationSec": 943,
     "tags": [
@@ -909,8 +909,8 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "401541",
-    "likeCount": "3030",
+    "viewCount": "401695",
+    "likeCount": "3029",
     "durationSec": 959,
     "tags": [
       "ANALYSIS"
@@ -925,7 +925,7 @@
     "publishedAt": "2026-10-11T19:14:54Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "120213",
+    "viewCount": "120216",
     "likeCount": "2251",
     "durationSec": 1240,
     "tags": [
@@ -941,45 +941,13 @@
     "publishedAt": "2026-10-09T18:19:00Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "100432",
-    "likeCount": "2209",
+    "viewCount": "100434",
+    "likeCount": "2208",
     "durationSec": 75,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=SxFGiy37EhE"
-  },
-  {
-    "id": "WQ9GYFGQUz4",
-    "title": "👀 Why Was Verstappen SO FAST? | Singapore GP 2026 Friday Analysis",
-    "description": "Where Was Max SO FAST? 2026 F1 Singapore GP Friday Sprint Qualifying Analysis\n\nCHAPTERS:\n00:00 Introduction\n00:20 A Bit Dusty Down At T1\n02:35 T11 and T16 Apex Curbs - Discussion of Chicanes\n06:24 The Only Tight Line Opportunity - T9\n08:03 Q1 - Kimis T1 Line\n08:26 Q2 - Ferrari and Mcl ahead of Max\n09:19 Hairpin Curved Braking Lines\n11:12 The Curbs in Q3 - T11 and T16\n14:25 Telemetry Analysis\n18:00 Weather Update\n18:29 Your Comments \n---------------------------------------------------------------",
-    "thumbnail": "https://i.ytimg.com/vi/WQ9GYFGQUz4/maxresdefault.jpg",
-    "publishedAt": "2026-10-09T14:50:41Z",
-    "channelTitle": "lowerlaptime",
-    "channelScore": 0.5,
-    "viewCount": "16864",
-    "likeCount": "259",
-    "durationSec": 1137,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=WQ9GYFGQUz4"
-  },
-  {
-    "id": "svYHZNsU9pc",
-    "title": "Analysing Red Bull's Improvements At Sepang | Jolyon Palmer's F1 TV Analysis",
-    "description": "Jolyon Palmer talks through how Red Bull seemingly improved on their pace at Sepang, why Ferrari opted for their strategy in the opening stages of the race, and so much more from the Bahrain Grand Prix in Malaysia.\n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1",
-    "thumbnail": "https://i.ytimg.com/vi/svYHZNsU9pc/maxresdefault.jpg",
-    "publishedAt": "2026-10-06T17:15:14Z",
-    "channelTitle": "FORMULA 1",
-    "channelScore": 1,
-    "viewCount": "412741",
-    "likeCount": "3186",
-    "durationSec": 745,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=svYHZNsU9pc"
   },
   {
     "id": "Ey8j_BlLvFM",
@@ -989,8 +957,8 @@
     "publishedAt": "2026-06-14T15:35:17Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8669985",
-    "likeCount": "179063",
+    "viewCount": "8672255",
+    "likeCount": "179070",
     "durationSec": 482,
     "tags": [
       "RACE"
@@ -1005,8 +973,8 @@
     "publishedAt": "2026-05-03T20:06:03Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8872083",
-    "likeCount": "141052",
+    "viewCount": "8875344",
+    "likeCount": "141061",
     "durationSec": 504,
     "tags": [
       "RACE"
@@ -1016,13 +984,13 @@
   {
     "id": "oAtYfF0_4-I",
     "title": "Race Highlights | 2026 Japanese Grand Prix",
-    "description": "Catch up on all the action from the Japanese Grand Prix that saw drama from lights out!\n\nFor more F1�� videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #JapaneseGP",
+    "description": "Catch up on all the action from the Japanese Grand Prix that saw drama from lights out!\n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #JapaneseGP",
     "thumbnail": "https://i.ytimg.com/vi/oAtYfF0_4-I/maxresdefault.jpg",
     "publishedAt": "2026-03-29T07:47:12Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9654892",
-    "likeCount": "166789",
+    "viewCount": "9668718",
+    "likeCount": "166794",
     "durationSec": 489,
     "tags": [
       "RACE"
@@ -1037,8 +1005,8 @@
     "publishedAt": "2026-03-15T09:38:15Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9895137",
-    "likeCount": "202416",
+    "viewCount": "9901740",
+    "likeCount": "202423",
     "durationSec": 494,
     "tags": [
       "RACE"
@@ -1053,8 +1021,8 @@
     "publishedAt": "2026-03-08T06:19:19Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12626771",
-    "likeCount": "222054",
+    "viewCount": "12630468",
+    "likeCount": "222057",
     "durationSec": 491,
     "tags": [
       "RACE"
@@ -1069,13 +1037,29 @@
     "publishedAt": "2026-02-09T19:08:30Z",
     "channelTitle": "ActuallyVen",
     "channelScore": 0.5,
-    "viewCount": "31255216",
-    "likeCount": "927232",
+    "viewCount": "31287276",
+    "likeCount": "928077",
     "durationSec": 88,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=wvcjtF7TZkk"
+  },
+  {
+    "id": "mAzWkjB8GD8",
+    "title": "Too late F1 #f1 #formula1",
+    "description": "",
+    "thumbnail": "https://i.ytimg.com/vi/mAzWkjB8GD8/maxresdefault.jpg",
+    "publishedAt": "2026-02-03T20:52:14Z",
+    "channelTitle": "ActuallyVen",
+    "channelScore": 0.5,
+    "viewCount": "16727609",
+    "likeCount": "544375",
+    "durationSec": 102,
+    "tags": [
+      "GENERAL"
+    ],
+    "url": "https://www.youtube.com/watch?v=mAzWkjB8GD8"
   },
   {
     "id": "uOeV5yAqnn0",
@@ -1085,8 +1069,8 @@
     "publishedAt": "2026-01-30T00:49:03Z",
     "channelTitle": "ActuallyVen",
     "channelScore": 0.5,
-    "viewCount": "50270685",
-    "likeCount": "1492581",
+    "viewCount": "50324233",
+    "likeCount": "1493997",
     "durationSec": 98,
     "tags": [
       "GENERAL"
@@ -1101,7 +1085,7 @@
     "publishedAt": "2025-09-03T06:04:38Z",
     "channelTitle": "Sann1e",
     "channelScore": 0.5,
-    "viewCount": "9738880",
+    "viewCount": "9754414",
     "likeCount": "0",
     "durationSec": 211,
     "tags": [
@@ -1117,8 +1101,8 @@
     "publishedAt": "2025-06-27T00:02:45Z",
     "channelTitle": "Jasiel Nuñez - Topic",
     "channelScore": 0.5,
-    "viewCount": "22341808",
-    "likeCount": "186634",
+    "viewCount": "22348648",
+    "likeCount": "186685",
     "durationSec": 186,
     "tags": [
       "GENERAL"
@@ -1133,13 +1117,29 @@
     "publishedAt": "2025-05-25T15:56:03Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9899741",
-    "likeCount": "138537",
+    "viewCount": "9901992",
+    "likeCount": "138548",
     "durationSec": 493,
     "tags": [
       "RACE"
     ],
     "url": "https://www.youtube.com/watch?v=ajzQj7bjSWE"
+  },
+  {
+    "id": "pdxiNBwxYxU",
+    "title": "F1 LEGO Race In Full | 2025 Miami Grand Prix",
+    "description": "If there's one thing we can all agree on, it's that the LEGO race before the 2025 Miami Grand Prix was one of the most entertaining things that has ever happened. Join us as we go onboard with ALL 10 CARS from this one-of-a-kind event!\n\nFor more F1® videos, visit https://www.Formula1.com\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #MiamiGP",
+    "thumbnail": "https://i.ytimg.com/vi/pdxiNBwxYxU/maxresdefault.jpg",
+    "publishedAt": "2025-05-10T15:00:06Z",
+    "channelTitle": "FORMULA 1",
+    "channelScore": 1,
+    "viewCount": "9021275",
+    "likeCount": "270265",
+    "durationSec": 945,
+    "tags": [
+      "GENERAL"
+    ],
+    "url": "https://www.youtube.com/watch?v=pdxiNBwxYxU"
   },
   {
     "id": "u2WDx6NU66w",
@@ -1149,8 +1149,8 @@
     "publishedAt": "2025-04-01T02:23:23Z",
     "channelTitle": "WhistlinDiesel",
     "channelScore": 0.5,
-    "viewCount": "12901217",
-    "likeCount": "372519",
+    "viewCount": "12905326",
+    "likeCount": "372525",
     "durationSec": 804,
     "tags": [
       "GENERAL"
@@ -1165,8 +1165,8 @@
     "publishedAt": "2025-03-13T19:03:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9268570",
-    "likeCount": "181011",
+    "viewCount": "9269840",
+    "likeCount": "181008",
     "durationSec": 149,
     "tags": [
       "GENERAL"
@@ -1181,8 +1181,8 @@
     "publishedAt": "2024-12-19T16:00:39Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11334701",
-    "likeCount": "59380",
+    "viewCount": "11339251",
+    "likeCount": "59384",
     "durationSec": 11448,
     "tags": [
       "RACE"
@@ -1197,8 +1197,8 @@
     "publishedAt": "2024-11-24T08:56:28Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8236556",
-    "likeCount": "151990",
+    "viewCount": "8239052",
+    "likeCount": "152010",
     "durationSec": 495,
     "tags": [
       "RACE"
@@ -1213,29 +1213,13 @@
     "publishedAt": "2024-10-07T15:00:30Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "10210463",
-    "likeCount": "68539",
+    "viewCount": "10221514",
+    "likeCount": "68557",
     "durationSec": 714,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=WtlHPTO0VDM"
-  },
-  {
-    "id": "YJ0NYHONwts",
-    "title": "Race Highlights | 2024 Hungarian Grand Prix",
-    "description": "Oscar Piastri takes his first Grand Prix victory, there's strategy tension at McLaren, and Lewis Hamilton and Max Verstappen collide. Catch up on the key moments from a dramatic Hungarian Grand Prix!\n\nFor more F1® videos, visit https://www.Formula1.com\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #HungarianGP",
-    "thumbnail": "https://i.ytimg.com/vi/YJ0NYHONwts/maxresdefault.jpg",
-    "publishedAt": "2024-07-21T15:54:52Z",
-    "channelTitle": "FORMULA 1",
-    "channelScore": 1,
-    "viewCount": "10575438",
-    "likeCount": "173280",
-    "durationSec": 490,
-    "tags": [
-      "RACE"
-    ],
-    "url": "https://www.youtube.com/watch?v=YJ0NYHONwts"
   },
   {
     "id": "1tAwfD0PTsY",
@@ -1245,29 +1229,13 @@
     "publishedAt": "2024-07-12T16:00:02Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8823889",
-    "likeCount": "61634",
+    "viewCount": "8828218",
+    "likeCount": "61645",
     "durationSec": 710,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=1tAwfD0PTsY"
-  },
-  {
-    "id": "Q9qSwDxF6YI",
-    "title": "Race Highlights | 2023 Las Vegas Grand Prix",
-    "description": "Five lights go out in Las Vegas! Catch up on all the action from a sensational street race.\n\nFor more F1® videos, visit https://www.Formula1.com\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #LasVegasGP",
-    "thumbnail": "https://i.ytimg.com/vi/Q9qSwDxF6YI/maxresdefault.jpg",
-    "publishedAt": "2023-11-19T09:17:05Z",
-    "channelTitle": "FORMULA 1",
-    "channelScore": 1,
-    "viewCount": "8682537",
-    "likeCount": "147143",
-    "durationSec": 493,
-    "tags": [
-      "RACE"
-    ],
-    "url": "https://www.youtube.com/watch?v=Q9qSwDxF6YI"
   },
   {
     "id": "f9j8nhMNYO4",
@@ -1277,8 +1245,8 @@
     "publishedAt": "2023-03-05T17:00:56Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11010348",
-    "likeCount": "176401",
+    "viewCount": "11011243",
+    "likeCount": "176405",
     "durationSec": 470,
     "tags": [
       "RACE"
@@ -1293,8 +1261,8 @@
     "publishedAt": "2022-07-11T16:35:02Z",
     "channelTitle": "Xalf",
     "channelScore": 0.5,
-    "viewCount": "12320048",
-    "likeCount": "92954",
+    "viewCount": "12322216",
+    "likeCount": "92955",
     "durationSec": 263,
     "tags": [
       "GENERAL"
@@ -1309,8 +1277,8 @@
     "publishedAt": "2022-03-20T17:30:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "13511704",
-    "likeCount": "241971",
+    "viewCount": "13512316",
+    "likeCount": "241972",
     "durationSec": 439,
     "tags": [
       "RACE"
@@ -1325,8 +1293,8 @@
     "publishedAt": "2021-09-26T15:42:54Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8793935",
-    "likeCount": "155685",
+    "viewCount": "8794354",
+    "likeCount": "155688",
     "durationSec": 439,
     "tags": [
       "RACE"
@@ -1341,7 +1309,7 @@
     "publishedAt": "2021-03-28T18:50:02Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11463158",
+    "viewCount": "11468371",
     "likeCount": "158232",
     "durationSec": 432,
     "tags": [
@@ -1357,7 +1325,7 @@
     "publishedAt": "2020-09-06T17:18:52Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9115705",
+    "viewCount": "9116079",
     "likeCount": "174020",
     "durationSec": 460,
     "tags": [
@@ -1373,8 +1341,8 @@
     "publishedAt": "2020-01-08T17:42:54Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9964451",
-    "likeCount": "136751",
+    "viewCount": "9966138",
+    "likeCount": "136753",
     "durationSec": 543,
     "tags": [
       "GENERAL"
@@ -1382,20 +1350,36 @@
     "url": "https://www.youtube.com/watch?v=B4pF4bMwYYI"
   },
   {
-    "id": "pyD1stt6LSA",
-    "title": "Top 10 Biggest F1 Crashes of 2019",
-    "description": "Crash. Bang. Wallop. Take a look at ten of the biggest bumps and bangs from the 2019 Formula 1 season.\n\nFor more F1® videos, visit http://www.Formula1.com\n\nLike F1® on Facebook: https://www.facebook.com/Formula1/\n\nFollow F1® on Twitter: http://www.twitter.com/F1\n\nFollow F1® on Instagram: http://www.instagram.com/F1\n\n#F1",
-    "thumbnail": "https://i.ytimg.com/vi/pyD1stt6LSA/maxresdefault.jpg",
-    "publishedAt": "2019-12-17T15:02:30Z",
+    "id": "7sIkMy-17hY",
+    "title": "2019 Belgian Grand Prix: Race Highlights",
+    "description": "The best of the action at Spa on a day filled with emotion.\n\nFor more F1® videos, visit http://www.Formula1.com\n\nLike F1® on Facebook: https://www.facebook.com/Formula1/\n\nFollow F1® on Twitter: http://www.twitter.com/F1\n\nFollow F1® on Instagram: http://www.instagram.com/F1\n\n#F1 #BelgianGP",
+    "thumbnail": "https://i.ytimg.com/vi/7sIkMy-17hY/maxresdefault.jpg",
+    "publishedAt": "2019-09-01T16:46:22Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12722775",
-    "likeCount": "143393",
-    "durationSec": 305,
+    "viewCount": "8549374",
+    "likeCount": "111215",
+    "durationSec": 391,
+    "tags": [
+      "RACE"
+    ],
+    "url": "https://www.youtube.com/watch?v=7sIkMy-17hY"
+  },
+  {
+    "id": "IKxLTVMbhUE",
+    "title": "Top 10 Spectacular Opening Lap Crashes in F1",
+    "description": "There's an old expression in motorsport - You can't win a race on the first lap, but you can definitely lose it. Here are ten examples that hammer that point home to the max... watch out for the carbon fibre confetti!\n\nFor more F1® videos, visit http://www.Formula1.com\n\nLike F1® on Facebook: https://www.facebook.com/Formula1/\n\nFollow F1® on Twitter: http://www.twitter.com/F1\n\nFollow F1® on Instagram: http://www.instagram.com/F1\n\n#F1",
+    "thumbnail": "https://i.ytimg.com/vi/IKxLTVMbhUE/maxresdefault.jpg",
+    "publishedAt": "2019-04-19T14:00:02Z",
+    "channelTitle": "FORMULA 1",
+    "channelScore": 1,
+    "viewCount": "8408498",
+    "likeCount": "95005",
+    "durationSec": 322,
     "tags": [
       "GENERAL"
     ],
-    "url": "https://www.youtube.com/watch?v=pyD1stt6LSA"
+    "url": "https://www.youtube.com/watch?v=IKxLTVMbhUE"
   },
   {
     "id": "8AYy-BcjRXg",
@@ -1405,8 +1389,8 @@
     "publishedAt": "2018-11-25T12:44:45Z",
     "channelTitle": "Brian Tyler (ARE WE DREAMING)",
     "channelScore": 0.5,
-    "viewCount": "47404500",
-    "likeCount": "616650",
+    "viewCount": "47417363",
+    "likeCount": "616693",
     "durationSec": 208,
     "tags": [
       "GENERAL"
@@ -1421,8 +1405,8 @@
     "publishedAt": "2018-03-19T21:32:39Z",
     "channelTitle": "Brian Tyler - Topic",
     "channelScore": 0.5,
-    "viewCount": "15510278",
-    "likeCount": "142054",
+    "viewCount": "15516772",
+    "likeCount": "142089",
     "durationSec": 195,
     "tags": [
       "GENERAL"
@@ -1437,7 +1421,7 @@
     "publishedAt": "2014-03-29T13:04:54Z",
     "channelTitle": "Marchettino",
     "channelScore": 0.5,
-    "viewCount": "9912983",
+    "viewCount": "9913774",
     "likeCount": "66872",
     "durationSec": 239,
     "tags": [
