@@ -7,8 +7,8 @@
     "publishedAt": "2026-11-21T12:00:13Z",
     "channelTitle": "The Race F1 Podcast",
     "channelScore": 0.5,
-    "viewCount": "6979",
-    "likeCount": "120",
+    "viewCount": "13551",
+    "likeCount": "161",
     "durationSec": 2468,
     "tags": [
       "QUALI",
@@ -41,8 +41,8 @@
     "publishedAt": "2026-11-03T17:30:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "513728",
-    "likeCount": "5474",
+    "viewCount": "514012",
+    "likeCount": "5476",
     "durationSec": 861,
     "tags": [
       "ANALYSIS"
@@ -57,7 +57,7 @@
     "publishedAt": "2026-11-02T02:26:02Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "15664",
+    "viewCount": "15665",
     "likeCount": "259",
     "durationSec": 1061,
     "tags": [
@@ -73,7 +73,7 @@
     "publishedAt": "2026-11-02T02:09:33Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "132369",
+    "viewCount": "132374",
     "likeCount": "2739",
     "durationSec": 1706,
     "tags": [
@@ -89,7 +89,7 @@
     "publishedAt": "2026-11-01T00:54:40Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "75896",
+    "viewCount": "75898",
     "likeCount": "1329",
     "durationSec": 929,
     "tags": [
@@ -122,8 +122,8 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "403368",
-    "likeCount": "3030",
+    "viewCount": "403524",
+    "likeCount": "3031",
     "durationSec": 959,
     "tags": [
       "ANALYSIS"
@@ -138,29 +138,13 @@
     "publishedAt": "2026-10-11T19:14:54Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "120277",
+    "viewCount": "120280",
     "likeCount": "2251",
     "durationSec": 1240,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=0B_7ZA_t0Ns"
-  },
-  {
-    "id": "SxFGiy37EhE",
-    "title": "❗️New F1 GLITCH in Singapore explained",
-    "description": "There was *another* problem with the 2026 F1 engines in Singapore. We explain all you need to know about the FIA error that caused it. \n\n#f1 #formula1 #f12026 #fia #fiaerror #singaporegp #singapore #singaporegrandprix",
-    "thumbnail": "https://i.ytimg.com/vi/SxFGiy37EhE/maxresdefault.jpg",
-    "publishedAt": "2026-10-09T18:19:00Z",
-    "channelTitle": "THE RACE",
-    "channelScore": 0.85,
-    "viewCount": "100444",
-    "likeCount": "2207",
-    "durationSec": 75,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=SxFGiy37EhE"
   },
   {
     "id": "WQ9GYFGQUz4",
@@ -177,5 +161,21 @@
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=WQ9GYFGQUz4"
+  },
+  {
+    "id": "svYHZNsU9pc",
+    "title": "Analysing Red Bull's Improvements At Sepang | Jolyon Palmer's F1 TV Analysis",
+    "description": "Jolyon Palmer talks through how Red Bull seemingly improved on their pace at Sepang, why Ferrari opted for their strategy in the opening stages of the race, and so much more from the Bahrain Grand Prix in Malaysia.\n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1",
+    "thumbnail": "https://i.ytimg.com/vi/svYHZNsU9pc/maxresdefault.jpg",
+    "publishedAt": "2026-10-06T17:15:14Z",
+    "channelTitle": "FORMULA 1",
+    "channelScore": 1,
+    "viewCount": "413515",
+    "likeCount": "3187",
+    "durationSec": 745,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=svYHZNsU9pc"
   }
 ]
