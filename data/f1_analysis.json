@@ -1,5 +1,21 @@
 [
   {
+    "id": "ZnyX8S-U-vc",
+    "title": "Las Vegas GP start explained: lights out to Turn 5 in five moments | 2026 F1",
+    "description": "The 2026 Las Vegas Grand Prix start, slowed down where it matters: five drivers, five moments, from lights out to Turn 5.\n\n1. Reaction: Gasly was first to move, 0.239 s after the start signal, then Lindblad (0.281 s) and Verstappen (0.289 s). Reaction times are our own timing; F1 does not publish them.\n2. The launch: Colapinto and Hamilton covered the most ground in the first 3 seconds, 34 m each. Verstappen, starting from P1, 33 m.\n3. Turn 1: Verstappen led into Turn 1 at 197 km/h, with Russell",
+    "thumbnail": "https://i.ytimg.com/vi/ZnyX8S-U-vc/maxresdefault.jpg",
+    "publishedAt": "2026-11-23T22:06:54Z",
+    "channelTitle": "Race Strategist",
+    "channelScore": 0.5,
+    "viewCount": "33",
+    "likeCount": "0",
+    "durationSec": 67,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=ZnyX8S-U-vc"
+  },
+  {
     "id": "5HbqE1iEdCM",
     "title": "Max Verstappen Masterclass! 2026 F1 Las Vegas GP RACE Analysis",
     "description": "Max Verstappen Masterclass! 2026 F1 Las Vegas GP RACE Analysis\n\nCHAPTERS:\n00:00 Introduction\n00:20 Vegas Is A Good Race Track\n02:22 The Start & Grip Off Line\n03:02 Leader's Mentality  \n05:05 Deployment Strategy\n06:40 Kimi Was In A Box Seat\n07:30 Lewis Hamilton 10s Penalty\n08:49 PER v CAM\n09:39 Arvid's Accident\n10:57 Max's Restart\n11:10 Chocolate Éclair - W.T.F\n12:50 RUS Lock Ups\n15:25 Summary & Your Comments\n-------------------------------------------------------------------------\n❓ Have a quest",
@@ -7,29 +23,13 @@
     "publishedAt": "2026-11-22T06:52:15Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "22174",
-    "likeCount": "372",
+    "viewCount": "22421",
+    "likeCount": "377",
     "durationSec": 975,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=5HbqE1iEdCM"
-  },
-  {
-    "id": "t0qrxdN2_-4",
-    "title": "Accuracy vs Precision vs Recall vs F1: Evaluation Metrics Explained",
-    "description": "With a rare class, accuracy can be misleading. Precision, recall and F1 show what a classifier actually gets right.\n\nIn this short:\n• 100 patients, only 10 of them sick\n• A model that calls everyone healthy is 90% accurate and catches no one\n• A real model's confusion matrix: 8 caught, 2 missed, 6 false alarms, 84 correctly cleared\n• Precision: 8 of the 14 flagged are truly sick, 57%\n• Recall: it finds 8 of the 10 sick, 80%\n• Moving the threshold trades one for the other; F1 balances both (0.67)",
-    "thumbnail": "https://i.ytimg.com/vi/t0qrxdN2_-4/maxresdefault.jpg",
-    "publishedAt": "2026-11-22T04:25:34Z",
-    "channelTitle": "Binary Star ",
-    "channelScore": 0.5,
-    "viewCount": "45",
-    "likeCount": "0",
-    "durationSec": 61,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=t0qrxdN2_-4"
   },
   {
     "id": "jvfix3JXAGg",
@@ -39,7 +39,7 @@
     "publishedAt": "2026-11-21T12:00:13Z",
     "channelTitle": "The Race F1 Podcast",
     "channelScore": 0.5,
-    "viewCount": "19709",
+    "viewCount": "19748",
     "likeCount": "190",
     "durationSec": 2468,
     "tags": [
@@ -56,7 +56,7 @@
     "publishedAt": "2026-11-21T11:14:08Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "65682",
+    "viewCount": "65733",
     "likeCount": "1087",
     "durationSec": 1159,
     "tags": [
@@ -90,8 +90,8 @@
     "publishedAt": "2026-11-03T17:30:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "518401",
-    "likeCount": "5486",
+    "viewCount": "518663",
+    "likeCount": "5487",
     "durationSec": 861,
     "tags": [
       "ANALYSIS"
@@ -106,13 +106,46 @@
     "publishedAt": "2026-11-02T02:26:02Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "15676",
+    "viewCount": "15678",
     "likeCount": "259",
     "durationSec": 1061,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=mimS5PUEKJU"
+  },
+  {
+    "id": "WViE8T1aRQo",
+    "title": "2026 F1 Mexican GP race analysis by Peter Windsor",
+    "description": "SPOILER ALERT: Peter Windsor details the key elements of a dramatic, compelling and often emotional day in Mexico. Watchable in 4k.\nBecome a channel member to enjoy our live race chats and other premium content:\nhttps//www.youtube.com/@peterwindsor/join\nAlternative race stats courtesy of Aleš Norskŷ:\nwww.GPfactsandnumbers.com \nWith thanks to Jetcraft, the world's largest buyer and seller of executive jets: https://jetcraft.com\nTo TrackNinja, a lap-timer and data app designed to help users improv",
+    "thumbnail": "https://i.ytimg.com/vi/WViE8T1aRQo/maxresdefault.jpg",
+    "publishedAt": "2026-11-02T02:09:33Z",
+    "channelTitle": "Peter Windsor",
+    "channelScore": 0.5,
+    "viewCount": "132421",
+    "likeCount": "2739",
+    "durationSec": 1706,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=WViE8T1aRQo"
+  },
+  {
+    "id": "gVjKUVNzCGc",
+    "title": "2026 F1 Mexican GP Qualifying analysis by Peter Windsor",
+    "description": "It's Sir Lewis Hamilton on the pole in Mexico for Ferrari!  The seven-times World Champion drove a superlative lap of the Autódromo Hermanos Rodríguez to set fastest lap in the closing seconds of Q3, beating Mercedes' George Russell into P2 and Lewis' Ferrari, team-mate, Charles Leclerc, into P3.  Red Bull's Max Verstappen was fourth fastest (and quickest in terms of combined best sector times) but will actually line up P5 (with a grid penalty), behind Kimi Antonelli in the other Merc. McLaren-M",
+    "thumbnail": "https://i.ytimg.com/vi/gVjKUVNzCGc/maxresdefault.jpg",
+    "publishedAt": "2026-11-01T00:54:40Z",
+    "channelTitle": "Peter Windsor",
+    "channelScore": 0.5,
+    "viewCount": "75917",
+    "likeCount": "1329",
+    "durationSec": 929,
+    "tags": [
+      "QUALI",
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=gVjKUVNzCGc"
   },
   {
     "id": "5j0TQxXXNdY",
@@ -138,45 +171,12 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "404756",
+    "viewCount": "404768",
     "likeCount": "3031",
     "durationSec": 959,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=UjVcLXIrlkY"
-  },
-  {
-    "id": "WViE8T1aRQo",
-    "title": "2026 F1 Mexican GP race analysis by Peter Windsor",
-    "description": "SPOILER ALERT: Peter Windsor details the key elements of a dramatic, compelling and often emotional day in Mexico. Watchable in 4k.\nBecome a channel member to enjoy our live race chats and other premium content:\nhttps//www.youtube.com/@peterwindsor/join\nAlternative race stats courtesy of Aleš Norskŷ:\nwww.GPfactsandnumbers.com \nWith thanks to Jetcraft, the world's largest buyer and seller of executive jets: https://jetcraft.com\nTo TrackNinja, a lap-timer and data app designed to help users improv",
-    "thumbnail": "https://i.ytimg.com/vi/WViE8T1aRQo/maxresdefault.jpg",
-    "publishedAt": "2026-11-02T02:09:33Z",
-    "channelTitle": "Peter Windsor",
-    "channelScore": 0.5,
-    "viewCount": "132417",
-    "likeCount": "2739",
-    "durationSec": 1706,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=WViE8T1aRQo"
-  },
-  {
-    "id": "gVjKUVNzCGc",
-    "title": "2026 F1 Mexican GP Qualifying analysis by Peter Windsor",
-    "description": "It's Sir Lewis Hamilton on the pole in Mexico for Ferrari!  The seven-times World Champion drove a superlative lap of the Autódromo Hermanos Rodríguez to set fastest lap in the closing seconds of Q3, beating Mercedes' George Russell into P2 and Lewis' Ferrari, team-mate, Charles Leclerc, into P3.  Red Bull's Max Verstappen was fourth fastest (and quickest in terms of combined best sector times) but will actually line up P5 (with a grid penalty), behind Kimi Antonelli in the other Merc. McLaren-M",
-    "thumbnail": "https://i.ytimg.com/vi/gVjKUVNzCGc/maxresdefault.jpg",
-    "publishedAt": "2026-11-01T00:54:40Z",
-    "channelTitle": "Peter Windsor",
-    "channelScore": 0.5,
-    "viewCount": "75917",
-    "likeCount": "1329",
-    "durationSec": 929,
-    "tags": [
-      "QUALI",
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=gVjKUVNzCGc"
   }
 ]

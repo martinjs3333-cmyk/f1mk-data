@@ -7,8 +7,8 @@
     "publishedAt": "2026-11-24T18:03:52Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "142135",
-    "likeCount": "2481",
+    "viewCount": "270127",
+    "likeCount": "3677",
     "durationSec": 867,
     "tags": [
       "ANALYSIS"
@@ -23,8 +23,8 @@
     "publishedAt": "2026-11-24T13:00:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "118982",
-    "likeCount": "1702",
+    "viewCount": "168647",
+    "likeCount": "2148",
     "durationSec": 505,
     "tags": [
       "ONBOARD"
@@ -39,13 +39,29 @@
     "publishedAt": "2026-11-24T11:00:16Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "88459",
-    "likeCount": "860",
+    "viewCount": "101310",
+    "likeCount": "924",
     "durationSec": 2693,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=4AGemKdtLzk"
+  },
+  {
+    "id": "ZnyX8S-U-vc",
+    "title": "Las Vegas GP start explained: lights out to Turn 5 in five moments | 2026 F1",
+    "description": "The 2026 Las Vegas Grand Prix start, slowed down where it matters: five drivers, five moments, from lights out to Turn 5.\n\n1. Reaction: Gasly was first to move, 0.239 s after the start signal, then Lindblad (0.281 s) and Verstappen (0.289 s). Reaction times are our own timing; F1 does not publish them.\n2. The launch: Colapinto and Hamilton covered the most ground in the first 3 seconds, 34 m each. Verstappen, starting from P1, 33 m.\n3. Turn 1: Verstappen led into Turn 1 at 197 km/h, with Russell",
+    "thumbnail": "https://i.ytimg.com/vi/ZnyX8S-U-vc/maxresdefault.jpg",
+    "publishedAt": "2026-11-23T22:06:54Z",
+    "channelTitle": "Race Strategist",
+    "channelScore": 0.5,
+    "viewCount": "33",
+    "likeCount": "0",
+    "durationSec": 67,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=ZnyX8S-U-vc"
   },
   {
     "id": "z1S6WWWIP3w",
@@ -55,8 +71,8 @@
     "publishedAt": "2026-11-23T19:00:30Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "646637",
-    "likeCount": "6125",
+    "viewCount": "675909",
+    "likeCount": "6342",
     "durationSec": 676,
     "tags": [
       "GENERAL"
@@ -71,8 +87,8 @@
     "publishedAt": "2026-11-23T15:06:56Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1361440",
-    "likeCount": "15096",
+    "viewCount": "1422087",
+    "likeCount": "15614",
     "durationSec": 1047,
     "tags": [
       "GENERAL"
@@ -87,8 +103,8 @@
     "publishedAt": "2026-11-22T15:00:32Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "718439",
-    "likeCount": "7446",
+    "viewCount": "728376",
+    "likeCount": "7551",
     "durationSec": 236,
     "tags": [
       "GENERAL"
@@ -103,8 +119,8 @@
     "publishedAt": "2026-11-22T09:08:06Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1634854",
-    "likeCount": "20081",
+    "viewCount": "1646696",
+    "likeCount": "20164",
     "durationSec": 742,
     "tags": [
       "REACTION"
@@ -119,8 +135,8 @@
     "publishedAt": "2026-11-22T07:03:23Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "10419241",
-    "likeCount": "130340",
+    "viewCount": "10532975",
+    "likeCount": "131053",
     "durationSec": 494,
     "tags": [
       "RACE"
@@ -135,29 +151,13 @@
     "publishedAt": "2026-11-22T06:52:15Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "22174",
-    "likeCount": "372",
+    "viewCount": "22421",
+    "likeCount": "377",
     "durationSec": 975,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=5HbqE1iEdCM"
-  },
-  {
-    "id": "t0qrxdN2_-4",
-    "title": "Accuracy vs Precision vs Recall vs F1: Evaluation Metrics Explained",
-    "description": "With a rare class, accuracy can be misleading. Precision, recall and F1 show what a classifier actually gets right.\n\nIn this short:\n• 100 patients, only 10 of them sick\n• A model that calls everyone healthy is 90% accurate and catches no one\n• A real model's confusion matrix: 8 caught, 2 missed, 6 false alarms, 84 correctly cleared\n• Precision: 8 of the 14 flagged are truly sick, 57%\n• Recall: it finds 8 of the 10 sick, 80%\n• Moving the threshold trades one for the other; F1 balances both (0.67)",
-    "thumbnail": "https://i.ytimg.com/vi/t0qrxdN2_-4/maxresdefault.jpg",
-    "publishedAt": "2026-11-22T04:25:34Z",
-    "channelTitle": "Binary Star ",
-    "channelScore": 0.5,
-    "viewCount": "45",
-    "likeCount": "0",
-    "durationSec": 61,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=t0qrxdN2_-4"
   },
   {
     "id": "jvfix3JXAGg",
@@ -167,7 +167,7 @@
     "publishedAt": "2026-11-21T12:00:13Z",
     "channelTitle": "The Race F1 Podcast",
     "channelScore": 0.5,
-    "viewCount": "19709",
+    "viewCount": "19748",
     "likeCount": "190",
     "durationSec": 2468,
     "tags": [
@@ -184,7 +184,7 @@
     "publishedAt": "2026-11-21T11:14:08Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "65682",
+    "viewCount": "65733",
     "likeCount": "1087",
     "durationSec": 1159,
     "tags": [
@@ -201,8 +201,8 @@
     "publishedAt": "2026-11-21T08:00:15Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "578170",
-    "likeCount": "6012",
+    "viewCount": "578784",
+    "likeCount": "6016",
     "durationSec": 532,
     "tags": [
       "QUALI",
@@ -218,8 +218,8 @@
     "publishedAt": "2026-11-21T07:00:24Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "227047",
-    "likeCount": "3850",
+    "viewCount": "228416",
+    "likeCount": "3861",
     "durationSec": 124,
     "tags": [
       "QUALI"
@@ -234,8 +234,8 @@
     "publishedAt": "2026-11-21T05:51:41Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "6693564",
-    "likeCount": "70759",
+    "viewCount": "6702562",
+    "likeCount": "70796",
     "durationSec": 481,
     "tags": [
       "QUALI"
@@ -250,8 +250,8 @@
     "publishedAt": "2026-11-21T02:32:26Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1202664",
-    "likeCount": "13307",
+    "viewCount": "1204047",
+    "likeCount": "13317",
     "durationSec": 287,
     "tags": [
       "FP"
@@ -266,8 +266,8 @@
     "publishedAt": "2026-11-20T08:30:30Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "377149",
-    "likeCount": "3333",
+    "viewCount": "377679",
+    "likeCount": "3338",
     "durationSec": 919,
     "tags": [
       "TECH"
@@ -282,8 +282,8 @@
     "publishedAt": "2026-11-20T06:20:02Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "2861233",
-    "likeCount": "27376",
+    "viewCount": "2861957",
+    "likeCount": "27385",
     "durationSec": 313,
     "tags": [
       "FP"
@@ -298,8 +298,8 @@
     "publishedAt": "2026-11-20T02:41:24Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "3005341",
-    "likeCount": "31899",
+    "viewCount": "3006250",
+    "likeCount": "31904",
     "durationSec": 268,
     "tags": [
       "FP"
@@ -314,8 +314,8 @@
     "publishedAt": "2026-11-19T10:32:00Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "544012",
-    "likeCount": "4452",
+    "viewCount": "544343",
+    "likeCount": "4455",
     "durationSec": 2244,
     "tags": [
       "GENERAL"
@@ -330,8 +330,8 @@
     "publishedAt": "2026-11-19T06:45:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "304049",
-    "likeCount": "3835",
+    "viewCount": "304194",
+    "likeCount": "3838",
     "durationSec": 773,
     "tags": [
       "GENERAL"
@@ -346,8 +346,8 @@
     "publishedAt": "2026-11-18T16:00:25Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "101555",
-    "likeCount": "758",
+    "viewCount": "102099",
+    "likeCount": "765",
     "durationSec": 2915,
     "tags": [
       "NEWS"
@@ -362,8 +362,8 @@
     "publishedAt": "2026-11-18T14:00:04Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1061652",
-    "likeCount": "7266",
+    "viewCount": "1064190",
+    "likeCount": "7288",
     "durationSec": 1002,
     "tags": [
       "GENERAL"
@@ -378,8 +378,8 @@
     "publishedAt": "2026-11-17T14:00:11Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "265578",
-    "likeCount": "3138",
+    "viewCount": "319574",
+    "likeCount": "3146",
     "durationSec": 840,
     "tags": [
       "GENERAL"
@@ -394,8 +394,8 @@
     "publishedAt": "2026-11-16T11:00:35Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "161028",
-    "likeCount": "1004",
+    "viewCount": "161174",
+    "likeCount": "1007",
     "durationSec": 2900,
     "tags": [
       "GENERAL"
@@ -410,8 +410,8 @@
     "publishedAt": "2026-11-13T17:30:09Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1465837",
-    "likeCount": "29450",
+    "viewCount": "1468673",
+    "likeCount": "29488",
     "durationSec": 609,
     "tags": [
       "GENERAL"
@@ -426,8 +426,8 @@
     "publishedAt": "2026-11-12T16:00:12Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "419792",
-    "likeCount": "5610",
+    "viewCount": "420446",
+    "likeCount": "5617",
     "durationSec": 743,
     "tags": [
       "GENERAL"
@@ -442,7 +442,7 @@
     "publishedAt": "2026-11-11T14:00:13Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "226710",
+    "viewCount": "226802",
     "likeCount": "2498",
     "durationSec": 1550,
     "tags": [
@@ -458,8 +458,8 @@
     "publishedAt": "2026-11-11T11:30:06Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "112895",
-    "likeCount": "882",
+    "viewCount": "113126",
+    "likeCount": "883",
     "durationSec": 2094,
     "tags": [
       "GENERAL"
@@ -474,8 +474,8 @@
     "publishedAt": "2026-11-10T19:00:09Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "856575",
-    "likeCount": "15244",
+    "viewCount": "856862",
+    "likeCount": "15247",
     "durationSec": 1155,
     "tags": [
       "REACTION"
@@ -490,8 +490,8 @@
     "publishedAt": "2026-11-10T16:41:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "244360",
-    "likeCount": "2019",
+    "viewCount": "244708",
+    "likeCount": "2020",
     "durationSec": 1000,
     "tags": [
       "ANALYSIS"
@@ -506,8 +506,8 @@
     "publishedAt": "2026-11-10T11:30:09Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "522589",
-    "likeCount": "5692",
+    "viewCount": "522912",
+    "likeCount": "5693",
     "durationSec": 566,
     "tags": [
       "ONBOARD"
@@ -522,8 +522,8 @@
     "publishedAt": "2026-11-09T18:00:19Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1308087",
-    "likeCount": "17127",
+    "viewCount": "1308819",
+    "likeCount": "17134",
     "durationSec": 536,
     "tags": [
       "GENERAL"
@@ -538,8 +538,8 @@
     "publishedAt": "2026-11-09T17:18:56Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "743593",
-    "likeCount": "8423",
+    "viewCount": "744109",
+    "likeCount": "8425",
     "durationSec": 1098,
     "tags": [
       "GENERAL"
@@ -554,7 +554,7 @@
     "publishedAt": "2026-11-09T12:58:04Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "115194",
+    "viewCount": "115236",
     "likeCount": "795",
     "durationSec": 3330,
     "tags": [
@@ -570,7 +570,7 @@
     "publishedAt": "2026-11-08T22:33:42Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "773076",
+    "viewCount": "773277",
     "likeCount": "10069",
     "durationSec": 676,
     "tags": [
@@ -586,8 +586,8 @@
     "publishedAt": "2026-11-08T19:57:16Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "7491358",
-    "likeCount": "89769",
+    "viewCount": "7493922",
+    "likeCount": "89787",
     "durationSec": 492,
     "tags": [
       "RACE"
@@ -602,8 +602,8 @@
     "publishedAt": "2026-11-08T10:46:43Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "421058",
-    "likeCount": "5842",
+    "viewCount": "421402",
+    "likeCount": "5847",
     "durationSec": 1292,
     "tags": [
       "GENERAL"
@@ -635,8 +635,8 @@
     "publishedAt": "2026-11-07T23:33:32Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "340194",
-    "likeCount": "6736",
+    "viewCount": "340368",
+    "likeCount": "6739",
     "durationSec": 118,
     "tags": [
       "QUALI",
@@ -652,7 +652,7 @@
     "publishedAt": "2026-11-07T22:34:04Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "581587",
+    "viewCount": "581621",
     "likeCount": "8348",
     "durationSec": 546,
     "tags": [
@@ -669,8 +669,8 @@
     "publishedAt": "2026-11-07T21:16:28Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "5679494",
-    "likeCount": "63836",
+    "viewCount": "5679838",
+    "likeCount": "63838",
     "durationSec": 482,
     "tags": [
       "QUALI"
@@ -685,7 +685,7 @@
     "publishedAt": "2026-11-07T16:48:35Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1197726",
+    "viewCount": "1197798",
     "likeCount": "15038",
     "durationSec": 274,
     "tags": [
@@ -701,7 +701,7 @@
     "publishedAt": "2026-11-06T21:33:44Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "652665",
+    "viewCount": "652680",
     "likeCount": "5391",
     "durationSec": 765,
     "tags": [
@@ -717,8 +717,8 @@
     "publishedAt": "2026-11-06T21:04:12Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1958615",
-    "likeCount": "26584",
+    "viewCount": "1958665",
+    "likeCount": "26585",
     "durationSec": 241,
     "tags": [
       "FP"
@@ -733,7 +733,7 @@
     "publishedAt": "2026-11-06T18:22:52Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "2163997",
+    "viewCount": "2164054",
     "likeCount": "28902",
     "durationSec": 285,
     "tags": [
@@ -749,7 +749,7 @@
     "publishedAt": "2026-11-05T23:15:25Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "456899",
+    "viewCount": "457142",
     "likeCount": "6155",
     "durationSec": 848,
     "tags": [
@@ -765,7 +765,7 @@
     "publishedAt": "2026-11-05T22:45:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "454690",
+    "viewCount": "454755",
     "likeCount": "5070",
     "durationSec": 1865,
     "tags": [
@@ -781,8 +781,8 @@
     "publishedAt": "2026-11-05T18:45:39Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "300010",
-    "likeCount": "5847",
+    "viewCount": "300057",
+    "likeCount": "5848",
     "durationSec": 472,
     "tags": [
       "GENERAL"
@@ -797,8 +797,8 @@
     "publishedAt": "2026-11-04T21:05:43Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "407405",
-    "likeCount": "6557",
+    "viewCount": "407884",
+    "likeCount": "6559",
     "durationSec": 1466,
     "tags": [
       "GENERAL"
@@ -813,8 +813,8 @@
     "publishedAt": "2026-11-04T18:08:34Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "210130",
-    "likeCount": "2627",
+    "viewCount": "210486",
+    "likeCount": "2630",
     "durationSec": 3953,
     "tags": [
       "GENERAL"
@@ -829,8 +829,8 @@
     "publishedAt": "2026-11-03T17:30:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "518401",
-    "likeCount": "5486",
+    "viewCount": "518663",
+    "likeCount": "5487",
     "durationSec": 861,
     "tags": [
       "ANALYSIS"
@@ -845,8 +845,8 @@
     "publishedAt": "2026-11-03T13:00:35Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "259824",
-    "likeCount": "3120",
+    "viewCount": "260005",
+    "likeCount": "3122",
     "durationSec": 641,
     "tags": [
       "ONBOARD"
@@ -861,8 +861,8 @@
     "publishedAt": "2026-11-02T22:34:41Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "504255",
-    "likeCount": "11522",
+    "viewCount": "504344",
+    "likeCount": "11523",
     "durationSec": 147,
     "tags": [
       "REACTION"
@@ -877,7 +877,7 @@
     "publishedAt": "2026-11-02T21:00:39Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1111404",
+    "viewCount": "1111635",
     "likeCount": "11183",
     "durationSec": 948,
     "tags": [
@@ -893,7 +893,7 @@
     "publishedAt": "2026-11-02T02:26:02Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "15676",
+    "viewCount": "15678",
     "likeCount": "259",
     "durationSec": 1061,
     "tags": [
@@ -909,7 +909,7 @@
     "publishedAt": "2026-11-02T02:09:33Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "132417",
+    "viewCount": "132421",
     "likeCount": "2739",
     "durationSec": 1706,
     "tags": [
@@ -958,7 +958,7 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "404756",
+    "viewCount": "404768",
     "likeCount": "3031",
     "durationSec": 959,
     "tags": [
@@ -974,8 +974,8 @@
     "publishedAt": "2026-03-29T07:47:12Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9690294",
-    "likeCount": "166881",
+    "viewCount": "9691071",
+    "likeCount": "166889",
     "durationSec": 489,
     "tags": [
       "RACE"
@@ -990,8 +990,8 @@
     "publishedAt": "2026-03-15T09:38:15Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9923904",
-    "likeCount": "202504",
+    "viewCount": "9924557",
+    "likeCount": "202509",
     "durationSec": 494,
     "tags": [
       "RACE"
@@ -1006,8 +1006,8 @@
     "publishedAt": "2026-03-08T06:19:19Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12670687",
-    "likeCount": "222177",
+    "viewCount": "12671896",
+    "likeCount": "222180",
     "durationSec": 491,
     "tags": [
       "RACE"
@@ -1022,8 +1022,8 @@
     "publishedAt": "2026-02-09T19:08:30Z",
     "channelTitle": "ActuallyVen",
     "channelScore": 0.5,
-    "viewCount": "31590810",
-    "likeCount": "935858",
+    "viewCount": "31608221",
+    "likeCount": "936273",
     "durationSec": 88,
     "tags": [
       "GENERAL"
@@ -1038,8 +1038,8 @@
     "publishedAt": "2026-01-30T00:49:03Z",
     "channelTitle": "ActuallyVen",
     "channelScore": 0.5,
-    "viewCount": "50904316",
-    "likeCount": "1508535",
+    "viewCount": "50920148",
+    "likeCount": "1508897",
     "durationSec": 98,
     "tags": [
       "GENERAL"
@@ -1054,7 +1054,7 @@
     "publishedAt": "2025-09-03T06:04:38Z",
     "channelTitle": "Sann1e",
     "channelScore": 0.5,
-    "viewCount": "9960221",
+    "viewCount": "9967854",
     "likeCount": "0",
     "durationSec": 211,
     "tags": [
@@ -1070,8 +1070,8 @@
     "publishedAt": "2025-06-27T00:02:45Z",
     "channelTitle": "Jasiel Nuñez - Topic",
     "channelScore": 0.5,
-    "viewCount": "22490117",
-    "likeCount": "187632",
+    "viewCount": "22497185",
+    "likeCount": "187659",
     "durationSec": 186,
     "tags": [
       "GENERAL"
@@ -1086,8 +1086,8 @@
     "publishedAt": "2025-06-12T13:55:21Z",
     "channelTitle": "F1 The Album",
     "channelScore": 0.5,
-    "viewCount": "10627342",
-    "likeCount": "50112",
+    "viewCount": "10629456",
+    "likeCount": "50124",
     "durationSec": 143,
     "tags": [
       "GENERAL"
@@ -1102,8 +1102,8 @@
     "publishedAt": "2025-05-25T15:56:03Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9930736",
-    "likeCount": "138646",
+    "viewCount": "9931632",
+    "likeCount": "138652",
     "durationSec": 493,
     "tags": [
       "RACE"
@@ -1118,8 +1118,8 @@
     "publishedAt": "2025-04-30T16:02:04Z",
     "channelTitle": "Don Toliver - Topic",
     "channelScore": 0.5,
-    "viewCount": "119118297",
-    "likeCount": "654941",
+    "viewCount": "119164842",
+    "likeCount": "655177",
     "durationSec": 210,
     "tags": [
       "GENERAL"
@@ -1134,8 +1134,8 @@
     "publishedAt": "2025-04-01T02:23:23Z",
     "channelTitle": "WhistlinDiesel",
     "channelScore": 0.5,
-    "viewCount": "12977973",
-    "likeCount": "372763",
+    "viewCount": "12979699",
+    "likeCount": "372771",
     "durationSec": 804,
     "tags": [
       "GENERAL"
@@ -1150,8 +1150,8 @@
     "publishedAt": "2025-03-23T09:21:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9181772",
-    "likeCount": "158282",
+    "viewCount": "9181976",
+    "likeCount": "158283",
     "durationSec": 481,
     "tags": [
       "RACE"
@@ -1166,7 +1166,7 @@
     "publishedAt": "2025-03-13T19:03:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9288150",
+    "viewCount": "9288671",
     "likeCount": "181053",
     "durationSec": 149,
     "tags": [
@@ -1182,8 +1182,8 @@
     "publishedAt": "2024-12-19T16:00:39Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11403409",
-    "likeCount": "59510",
+    "viewCount": "11406589",
+    "likeCount": "59518",
     "durationSec": 11448,
     "tags": [
       "RACE"
@@ -1198,8 +1198,8 @@
     "publishedAt": "2024-10-07T15:00:30Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "10380999",
-    "likeCount": "68767",
+    "viewCount": "10384677",
+    "likeCount": "68772",
     "durationSec": 714,
     "tags": [
       "GENERAL"
@@ -1214,8 +1214,8 @@
     "publishedAt": "2023-03-05T17:00:56Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11021204",
-    "likeCount": "176441",
+    "viewCount": "11021570",
+    "likeCount": "176446",
     "durationSec": 470,
     "tags": [
       "RACE"
@@ -1230,8 +1230,8 @@
     "publishedAt": "2022-07-11T16:35:02Z",
     "channelTitle": "Xalf",
     "channelScore": 0.5,
-    "viewCount": "12350139",
-    "likeCount": "93063",
+    "viewCount": "12351225",
+    "likeCount": "93069",
     "durationSec": 263,
     "tags": [
       "GENERAL"
@@ -1246,8 +1246,8 @@
     "publishedAt": "2022-05-29T16:57:19Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11280619",
-    "likeCount": "176947",
+    "viewCount": "11280737",
+    "likeCount": "176948",
     "durationSec": 424,
     "tags": [
       "RACE"
@@ -1262,8 +1262,8 @@
     "publishedAt": "2022-03-20T17:30:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "13519639",
-    "likeCount": "242005",
+    "viewCount": "13519916",
+    "likeCount": "242010",
     "durationSec": 439,
     "tags": [
       "RACE"
@@ -1278,8 +1278,8 @@
     "publishedAt": "2021-12-17T17:05:28Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "23632843",
-    "likeCount": "298732",
+    "viewCount": "23633446",
+    "likeCount": "298734",
     "durationSec": 894,
     "tags": [
       "GENERAL"
@@ -1294,8 +1294,8 @@
     "publishedAt": "2021-12-05T21:26:21Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "10250069",
-    "likeCount": "166355",
+    "viewCount": "10250415",
+    "likeCount": "166356",
     "durationSec": 431,
     "tags": [
       "RACE"
@@ -1310,8 +1310,8 @@
     "publishedAt": "2021-03-28T18:50:02Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11531754",
-    "likeCount": "158271",
+    "viewCount": "11532618",
+    "likeCount": "158274",
     "durationSec": 432,
     "tags": [
       "RACE"
@@ -1326,8 +1326,8 @@
     "publishedAt": "2021-01-04T20:00:11Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12150518",
-    "likeCount": "134824",
+    "viewCount": "12150953",
+    "likeCount": "134826",
     "durationSec": 1119,
     "tags": [
       "RACE"
@@ -1342,8 +1342,8 @@
     "publishedAt": "2020-01-10T20:00:14Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "13184049",
-    "likeCount": "146922",
+    "viewCount": "13184212",
+    "likeCount": "146923",
     "durationSec": 601,
     "tags": [
       "GENERAL"
@@ -1358,8 +1358,8 @@
     "publishedAt": "2019-10-04T13:00:41Z",
     "channelTitle": "Labrinth",
     "channelScore": 0.5,
-    "viewCount": "80276766",
-    "likeCount": "967517",
+    "viewCount": "80284556",
+    "likeCount": "967546",
     "durationSec": 92,
     "tags": [
       "GENERAL"
@@ -1374,8 +1374,8 @@
     "publishedAt": "2018-11-25T12:44:45Z",
     "channelTitle": "Brian Tyler (ARE WE DREAMING)",
     "channelScore": 0.5,
-    "viewCount": "47597799",
-    "likeCount": "617450",
+    "viewCount": "47603827",
+    "likeCount": "617486",
     "durationSec": 208,
     "tags": [
       "GENERAL"
@@ -1390,8 +1390,8 @@
     "publishedAt": "2018-03-19T21:32:39Z",
     "channelTitle": "Brian Tyler - Topic",
     "channelScore": 0.5,
-    "viewCount": "15596527",
-    "likeCount": "142571",
+    "viewCount": "15599709",
+    "likeCount": "142590",
     "durationSec": 195,
     "tags": [
       "GENERAL"
@@ -1406,28 +1406,12 @@
     "publishedAt": "2017-09-01T16:00:03Z",
     "channelTitle": "Inventus",
     "channelScore": 0.5,
-    "viewCount": "9644129",
-    "likeCount": "88197",
+    "viewCount": "9644473",
+    "likeCount": "88200",
     "durationSec": 1383,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=Fop_KokmxJY"
-  },
-  {
-    "id": "qvWxhhi0_yk",
-    "title": "BEST Formula 1 Sounds - V6, V8, V10 and V12",
-    "description": "Over the years I had the opportunity to film many Ferrari F1s from different eras (from the early V6 turbo to the V10, V12 up to the most recent V8) and with this video I want to show you a glimpse of the best sounds of these screaming engines, turn up the volume!\n\nSubscribe! http://bit.ly/SubscribeToMarchettino\n\nFacebook: http://on.fb.me/Marchettino \n\nTwitter: http://twitter.com/MarchettinoYT\n\nGoogle+: http://google.com/+Marchettino",
-    "thumbnail": "https://i.ytimg.com/vi/qvWxhhi0_yk/maxresdefault.jpg",
-    "publishedAt": "2014-03-29T13:04:54Z",
-    "channelTitle": "Marchettino",
-    "channelScore": 0.5,
-    "viewCount": "9926314",
-    "likeCount": "66893",
-    "durationSec": 239,
-    "tags": [
-      "GENERAL"
-    ],
-    "url": "https://www.youtube.com/watch?v=qvWxhhi0_yk"
   }
 ]
